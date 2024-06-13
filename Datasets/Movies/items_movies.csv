@@ -1,0 +1,3627 @@
+item,movie_id,genre,continent
+0,1,Animation,North America
+1,2,Adventure,Europe|North America
+2,3,Comedy,North America
+3,4,Comedy,North America
+4,5,Comedy,North America
+5,6,Action,North America
+6,7,Comedy,North America
+7,8,Adventure,North America
+8,9,Action,North America
+9,10,Action,North America
+10,11,Comedy,North America
+11,12,Comedy,North America
+12,13,Animation,North America
+13,14,Drama,North America
+14,15,Action,North America
+15,16,Drama,North America
+16,17,Drama,North America
+17,18,Thriller,North America
+18,19,Comedy,North America
+19,20,Action,North America
+20,21,Action,North America
+21,22,Crime,North America
+22,23,Thriller,North America
+23,24,Drama,North America
+24,25,Drama,North America
+25,26,Drama,North America
+26,27,Drama,North America
+27,28,Romance,North America
+28,29,Adventure,North America
+29,30,Drama,North America
+30,31,Drama,North America
+31,32,Drama,Europe|North America
+32,33,Adventure,North America
+33,34,Children's,North America
+34,35,Drama,North America
+35,36,Drama,North America
+36,37,Documentary,North America
+37,38,Comedy,North America
+38,39,Comedy,North America
+39,40,Drama,Europe|North America
+40,41,Drama,North America
+41,42,Action,North America
+42,43,Drama,Asia|Europe|North America
+43,44,Action,Europe|North America
+44,45,Comedy,North America
+45,46,Drama,North America
+46,47,Crime,Europe
+47,48,Animation,Europe
+48,49,Drama,North America
+49,50,Crime,North America
+50,52,Comedy,North America
+51,53,Drama,Europe
+52,54,Children's,North America
+53,55,Drama,Europe|North America
+54,56,Adventure,North America
+55,57,Drama,North America
+56,58,Drama,North America
+57,59,Drama,North America
+58,60,Adventure,North America
+59,61,Drama,North America
+60,62,Drama,Europe
+61,63,Comedy,North America
+62,64,Comedy,North America
+63,65,Comedy,North America
+64,66,Sci-Fi,Europe
+65,67,Drama,North America
+66,68,Comedy,North America
+67,69,Comedy,North America
+68,70,Action,North America
+69,71,Action,North America
+70,72,Comedy,North America
+71,73,Drama,North America
+72,74,Drama,North America
+73,75,Comedy,North America
+74,76,Sci-Fi,North America
+75,77,Documentary,North America
+76,78,Drama,North America
+77,79,Drama,Europe|North America
+78,80,Drama,Europe
+79,81,Crime,North America
+80,82,Drama,North America
+81,83,Drama,Europe|North America
+82,84,Comedy,North America
+83,85,Drama,Europe
+84,86,Adventure,Europe|North America
+85,87,Children's,North America
+86,88,Comedy,North America
+87,89,Action,North America
+88,90,Drama,North America
+89,92,Drama,North America
+90,93,Comedy,Europe
+91,94,Drama,North America
+92,95,Action,North America
+93,96,Comedy,Europe|North America
+94,97,Drama,North America
+95,98,Action,Europe|North America
+96,99,Documentary,North America
+97,100,Drama,Asia|Europe|North America
+98,101,Comedy,North America
+99,102,Comedy,Europe|North America
+100,103,Thriller,North America
+101,104,Comedy,North America
+102,105,Drama,North America
+103,106,Comedy,North America
+104,107,Adventure,North America
+105,108,Documentary,North America
+106,110,Action,North America
+107,111,Drama,North America
+108,112,Action,North America
+109,113,Drama,North America
+110,114,Drama,North America
+111,116,Documentary,North America
+112,117,Crime,North America
+113,118,Comedy,Europe
+114,119,Comedy,North America
+115,120,Drama,North America
+116,121,Drama,North America
+117,122,Comedy,Europe
+118,123,Drama,Europe
+119,124,Drama,Europe
+120,125,Comedy,North America
+121,126,Adventure,Asia
+122,127,Drama,North America
+123,128,Documentary,North America
+124,129,Comedy,North America
+125,130,Drama,Europe|North America
+126,131,Drama,Europe|North America
+127,132,Thriller,Europe|North America
+128,133,Comedy,North America
+129,135,Comedy,North America
+130,136,Documentary,North America
+131,137,Documentary,North America
+132,138,Drama,Europe
+133,139,Action,Europe
+134,140,Drama,North America|South America
+135,141,Comedy,North America
+136,144,Comedy,Europe
+137,145,Action,North America
+138,146,Adventure,North America
+139,147,Drama,Europe|North America
+140,148,Drama,North America
+141,149,Crime,North America
+142,150,Drama,North America
+143,151,Drama,Europe
+144,152,Horror,Europe
+145,153,Action,Europe
+146,154,Drama,Europe
+147,155,Drama,North America
+148,156,Comedy,North America
+149,157,Comedy,North America
+150,158,Adventure,Europe|North America
+151,159,Drama,North America
+152,160,Action,Europe
+153,161,Drama,Europe
+154,162,Documentary,Europe
+155,163,Action,Europe
+156,164,Crime,North America
+157,165,Action,North America
+158,166,Comedy,North America
+159,167,Drama,Europe|North America
+160,168,Action,Europe
+161,169,Adventure,North America
+162,170,Action,Europe|North America
+163,171,Comedy,Europe
+164,172,Action,Europe
+165,173,Action,Europe
+166,174,Comedy,Europe
+167,175,Drama,Europe
+168,176,Comedy,Europe
+169,177,Horror,North America
+170,178,Comedy,North America
+171,179,Drama,North America
+172,180,Comedy,Europe
+173,181,Action,North America
+174,182,Drama,Europe|North America
+175,183,Thriller,Europe
+176,184,Drama,Europe
+177,185,Sci-Fi,North America
+178,186,Comedy,North America
+179,187,Comedy,Europe|Oceania
+180,188,Horror,North America
+181,189,Comedy,North America
+182,190,Thriller,Europe
+183,191,Drama,North America
+184,192,Documentary,North America
+185,193,Drama,North America
+186,194,Drama,North America
+187,195,Comedy,North America
+188,196,Horror,North America
+189,197,Drama,North America
+190,198,Action,Europe|North America
+191,199,Drama,Europe|North America
+192,200,Thriller,North America
+193,201,Drama,Europe|North America
+194,202,Drama,Europe
+195,203,Comedy,Europe
+196,204,Action,North America
+197,205,Comedy,Europe
+198,206,Documentary,Europe|North America
+199,207,Drama,North America
+200,208,Action,North America
+201,209,Drama,Europe|North America
+202,210,Western,North America
+203,211,Drama,North America
+204,212,Comedy,Europe
+205,213,Drama,Europe
+206,214,Drama,North America
+207,215,Drama,Europe|North America
+208,216,Comedy,North America
+209,217,Drama,Europe
+210,218,Comedy,Asia|Europe
+211,219,Drama,Asia
+212,220,Horror,North America
+213,222,Drama,North America
+214,223,Comedy,North America
+215,224,Comedy,North America
+216,225,Drama,Europe|North America
+217,226,Thriller,Europe
+218,227,Action,Europe
+219,228,Comedy,Europe|North America
+220,229,Drama,North America
+221,230,Drama,Europe|North America
+222,231,Comedy,North America
+223,232,Comedy,Asia
+224,233,Drama,North America
+225,234,Comedy,North America
+226,235,Comedy,Europe
+227,236,Comedy,Europe
+228,237,Comedy,North America
+229,238,Adventure,North America
+230,239,Animation,Europe|North America
+231,240,Thriller,Europe
+232,241,Children's,Europe
+233,242,Drama,Europe
+234,243,Comedy,Europe|North America
+235,244,Animation,Oceania
+236,245,Crime,North America
+237,246,Documentary,Europe|North America
+238,247,Drama,North America
+239,248,Comedy,North America
+240,249,Drama,North America
+241,250,Children's,North America
+242,251,Action,North America
+243,252,Comedy,Europe
+244,253,Drama,North America
+245,254,Drama,Europe|North America
+246,255,Comedy,Europe
+247,256,Comedy,North America
+248,257,Mystery,North America
+249,258,Adventure,North America
+250,259,Crime,Oceania
+251,260,Action,North America
+252,261,Drama,North America
+253,262,Children's,Europe|North America
+254,263,Drama,North America
+255,264,Drama,Europe|North America
+256,265,Drama,Europe
+257,266,Drama,North America
+258,267,Comedy,North America
+259,268,Drama,North America
+260,269,Drama,Europe
+261,270,Drama,North America
+262,271,Drama,North America
+263,272,Drama,North America
+264,273,Drama,North America
+265,274,Comedy,North America
+266,275,Comedy,Africa|Europe
+267,276,Comedy,North America
+268,277,Drama,North America
+269,278,Comedy,North America
+270,279,Drama,Europe|North America
+271,280,Drama,Asia
+272,281,Drama,Europe
+273,282,Drama,North America
+274,283,Crime,Europe
+275,286,Action,North America
+276,287,Comedy,Asia|Europe|North America
+277,288,Action,North America
+278,289,Comedy,Asia
+279,290,Crime,North America
+280,291,Thriller,North America
+281,292,Action,North America
+282,293,Crime,North America
+283,294,Comedy,North America
+284,295,Comedy,North America
+285,296,Crime,North America
+286,297,Drama,North America
+287,298,Comedy,North America
+288,299,Drama,North America
+289,300,Drama,North America
+290,301,Drama,North America
+291,302,Drama,Europe|North America
+292,303,Action,Asia|Europe
+293,304,Comedy,North America
+294,305,Comedy,Europe
+295,306,Drama,North America
+296,307,Drama,Europe
+297,308,Drama,Europe
+298,309,Drama,North America
+299,310,Comedy,North America
+300,311,Horror,Europe
+301,312,Comedy,North America
+302,313,Animation,North America
+303,314,Drama,Europe|North America
+304,315,Action,North America
+305,316,Action,Europe|North America
+306,317,Children's,Europe|North America|Oceania
+307,318,Drama,North America
+308,319,Thriller,Europe|North America
+309,320,Film-Noir,North America
+310,321,Drama,North America
+311,322,Comedy,Europe|North America
+312,324,Comedy,North America
+313,325,Comedy,Europe
+314,326,Drama,North America
+315,327,Action,North America
+316,328,Horror,North America
+317,329,Action,Europe|North America
+318,330,Comedy,North America
+319,331,Drama,North America
+320,332,Horror,North America
+321,333,Comedy,North America
+322,334,Drama,North America
+323,335,Mystery,North America
+324,336,Drama,North America
+325,337,Drama,Europe|North America
+326,338,Sci-Fi,North America
+327,339,Comedy,North America
+328,340,Adventure,North America
+329,341,Drama,North America
+330,342,Comedy,North America
+331,343,Children's,North America
+332,344,Comedy,North America
+333,345,Comedy,North America
+334,346,Drama,North America
+335,347,Drama,North America
+336,348,Comedy,North America
+337,349,Action,North America
+338,350,Drama,Europe|North America
+339,351,Comedy,Europe|North America
+340,352,Comedy,North America
+341,353,Action,North America
+342,354,Drama,North America
+343,355,Children's,North America
+344,356,Comedy,North America
+345,357,Comedy,Europe
+346,358,Drama,Europe
+347,359,Comedy,North America
+348,360,Action,Europe|North America
+349,361,Drama,Europe|North America
+350,362,Adventure,Europe|North America
+351,363,Documentary,North America
+352,364,Animation,Europe
+353,365,Drama,North America
+354,366,Horror,North America
+355,367,Comedy,Oceania
+356,368,Action,North America
+357,369,Drama,North America
+358,370,Comedy,North America
+359,371,Comedy,Europe
+360,372,Comedy,North America
+361,373,Thriller,North America
+362,374,Children's,Europe
+363,375,Drama,Europe
+364,376,Action,North America
+365,377,Action,Europe|North America
+366,378,Comedy,Europe
+367,379,Action,Europe|North America
+368,380,Action,North America
+369,381,Drama,North America
+370,382,Drama,North America
+371,383,Western,North America
+372,384,Action,North America
+373,385,Drama,North America
+374,386,Drama,North America
+375,387,Action,Europe|North America
+376,388,Drama,North America
+377,389,Drama,North America
+378,390,Action,Europe
+379,391,Crime,North America
+380,392,Adventure,North America
+381,393,Action,North America
+382,394,Action,North America
+383,397,Horror,Europe|North America
+384,398,Documentary,North America
+385,401,Action,North America
+386,402,Comedy,North America
+387,404,Documentary,North America
+388,405,Action,Asia
+389,406,Drama,North America
+390,407,Horror,North America
+391,408,Drama,North America
+392,409,Drama,North America
+393,410,Comedy,North America
+394,411,Comedy,North America
+395,412,Drama,North America
+396,413,Comedy,North America
+397,414,Comedy,North America
+398,415,Comedy,North America
+399,416,Western,North America
+400,417,Comedy,North America
+401,418,Drama,North America
+402,419,Comedy,North America
+403,420,Action,North America
+404,421,Adventure,Europe
+405,422,Thriller,North America
+406,423,Action,North America
+407,424,Drama,North America
+408,425,Drama,North America
+409,426,Horror,North America
+410,427,Mystery,Europe|North America
+411,428,Drama,Europe|North America
+412,429,Comedy,North America
+413,430,Drama,North America
+414,431,Crime,Europe
+415,432,Comedy,North America
+416,433,Comedy,Europe|North America
+417,434,Action,Europe|Oceania
+418,435,Comedy,Europe|North America
+419,436,Drama,North America
+420,437,Comedy,Africa
+421,438,Action,Europe|North America
+422,439,Drama,North America
+423,440,Comedy,North America
+424,441,Comedy,Oceania
+425,442,Action,Asia
+426,443,Documentary,North America
+427,444,Comedy,North America
+428,445,Comedy,North America
+429,446,Drama,Europe
+430,447,Comedy,North America
+431,448,Drama,Europe
+432,449,Comedy,North America
+433,450,Comedy,Asia|North America
+434,451,Drama,North America
+435,452,Drama,North America
+436,453,Comedy,North America
+437,454,Drama,North America
+438,455,Adventure,Europe|North America
+439,456,Drama,North America
+440,457,Action,Europe
+441,458,Drama,North America
+442,459,Action,North America
+443,460,Comedy,North America
+444,461,Drama,Asia|Europe
+445,462,Action,North America
+446,463,Crime,North America
+447,464,Action,Oceania
+448,465,Action,North America
+449,466,Action,North America
+450,467,Comedy,North America
+451,468,Comedy,North America
+452,469,Drama,North America
+453,470,Comedy,North America
+454,471,Comedy,North America
+455,472,Comedy,North America
+456,473,Comedy,Europe|North America
+457,474,Action,North America
+458,475,Drama,North America
+459,476,Comedy,North America
+460,477,Drama,North America
+461,478,Comedy,North America
+462,479,Action,North America
+463,480,Action,North America
+464,481,Drama,Europe|North America
+465,482,Thriller,Europe|North America
+466,483,Drama,Asia|Europe|North America
+467,484,Adventure,North America
+468,485,Action,North America
+469,486,Comedy,North America
+470,487,Comedy,Europe
+471,488,Drama,Europe
+472,489,Comedy,Europe|North America
+473,490,Thriller,North America
+474,491,Drama,North America
+475,492,Comedy,North America
+476,493,Action,Europe|Oceania
+477,494,Action,North America
+478,495,Drama,North America
+479,496,Comedy,North America
+480,497,Comedy,Europe|North America
+481,498,Drama,North America
+482,499,Comedy,Oceania
+483,500,Comedy,Asia|North America
+484,501,Drama,North America
+485,502,Action,Asia|North America
+486,503,Drama,North America
+487,504,Action,North America
+488,505,Comedy,Europe|North America
+489,506,Drama,North America
+490,507,Action,North America
+491,508,Drama,Europe|North America
+492,509,Drama,North America
+493,510,Drama,Europe|North America
+494,511,Action,Europe
+495,512,Horror,North America|Oceania
+496,513,Comedy,North America
+497,514,Comedy,North America
+498,515,Drama,Europe
+499,516,Comedy,North America
+500,517,Action,Asia|Europe
+501,518,Comedy,North America
+502,519,Sci-Fi,Asia
+503,520,Comedy,North America
+504,521,Crime,Oceania
+505,522,Action,North America
+506,523,Drama,North America
+507,524,Drama,Oceania
+508,525,Drama,North America
+509,526,Drama,North America
+510,527,Drama,North America
+511,528,Drama,North America
+512,529,Drama,Asia|North America
+513,530,Drama,North America
+514,531,Children's,Europe
+515,532,Comedy,Europe|North America
+516,533,Action,Europe|North America
+517,534,Drama,Europe|North America
+518,535,Drama,North America
+519,536,Drama,North America
+520,537,Comedy,Africa|Europe
+521,538,Drama,Europe
+522,539,Comedy,North America
+523,540,Thriller,Asia
+524,541,Film-Noir,North America
+525,542,Comedy,Europe
+526,543,Comedy,Europe
+527,544,Action,North America
+528,545,Drama,Europe|North America
+529,546,Action,Europe
+530,547,Action,North America
+531,548,Action,Europe
+532,549,Documentary,North America
+533,550,Comedy,North America
+534,551,Children's,North America
+535,552,Action,Europe|North America
+536,553,Western,Europe|North America
+537,554,Thriller,North America
+538,555,Action,North America
+539,556,Documentary,North America
+540,558,Action,North America
+541,559,Comedy,Europe
+542,560,Drama,Europe
+543,561,Thriller,North America
+544,562,Comedy,North America
+545,563,Drama,North America
+546,564,Comedy,North America
+547,565,Horror,Europe|North America
+548,566,Comedy,North America
+549,567,Drama,Europe|North America
+550,568,Comedy,North America
+551,569,Children's,North America
+552,570,Comedy,North America
+553,571,Drama,North America
+554,572,Drama,North America
+555,573,Drama,Asia
+556,574,Comedy,Europe
+557,575,Children's,Europe
+558,577,Adventure,North America
+559,579,Thriller,Asia|Europe
+560,580,Drama,Europe
+561,581,Documentary,North America
+562,582,Comedy,North America
+563,583,Comedy,North America
+564,585,Comedy,North America
+565,586,Children's,North America
+566,587,Comedy,Oceania
+567,588,Animation,Europe|North America
+568,589,Action,Europe|North America
+569,590,Adventure,North America
+570,591,Action,North America
+571,592,Action,North America
+572,593,Drama,Europe|North America
+573,594,Animation,North America
+574,595,Animation,North America
+575,596,Animation,North America
+576,597,Comedy,North America
+577,598,Comedy,North America
+578,599,Western,Europe
+579,600,Thriller,North America
+580,601,Drama,North America
+581,602,Documentary,North America
+582,603,Comedy,Europe|North America
+583,605,Drama,North America
+584,606,Horror,Europe|North America
+585,607,Drama,North America
+586,608,Crime,North America
+587,609,Adventure,North America
+588,610,Action,North America
+589,611,Action,North America
+590,612,Comedy,North America
+591,613,Drama,Europe|North America
+592,614,Drama,North America
+593,615,Drama,North America
+594,616,Animation,North America
+595,617,Drama,North America
+596,618,Comedy,North America
+597,619,Comedy,North America
+598,621,Drama,North America
+599,623,Romance,North America
+600,624,Action,North America
+601,626,Comedy,North America
+602,627,Drama,Europe|North America
+603,628,Drama,North America
+604,630,Drama,North America
+605,631,Animation,North America
+606,632,War,North America
+607,633,Comedy,North America
+608,634,Comedy,North America
+609,635,Comedy,North America
+610,637,Comedy,North America
+611,638,Romance,Europe|North America
+612,639,Comedy,Europe|North America
+613,640,Drama,North America
+614,641,Comedy,North America
+615,642,Drama,North America
+616,643,Comedy,North America
+617,644,Comedy,North America
+618,645,Drama,North America
+619,647,Drama,North America
+620,648,Action,North America
+621,649,Comedy,North America
+622,650,Drama,Europe|North America
+623,651,Comedy,Europe
+624,652,Mystery,Europe|North America
+625,653,Action,North America
+626,655,Comedy,Europe|North America
+627,656,Comedy,North America
+628,657,Comedy,North America
+629,659,Crime,North America
+630,660,Drama,North America
+631,661,Animation,North America
+632,662,Thriller,North America
+633,663,Comedy,North America
+634,664,Comedy,North America
+635,665,War,Europe|North America
+636,666,Drama,Asia|North America
+637,667,Action,Europe|North America
+638,668,Drama,North America
+639,670,Drama,Europe|North America
+640,671,Comedy,North America
+641,672,Drama,Europe|North America
+642,673,Adventure,North America
+643,674,Adventure,North America
+644,678,Drama,North America
+645,680,Sci-Fi,Europe
+646,681,Crime,Europe|North America
+647,682,Documentary,North America
+648,684,Drama,North America
+649,685,Drama,North America
+650,687,Drama,Europe|North America|South America
+651,688,Action,Europe|North America
+652,690,Romance,Europe|North America
+653,691,Comedy,North America
+654,692,Action,Europe|North America
+655,694,Action,North America
+656,695,Mystery,North America
+657,696,Thriller,North America
+658,697,Drama,North America
+659,698,Drama,North America|Oceania
+660,700,Comedy,Asia|North America
+661,702,Drama,Europe|North America
+662,703,Drama,Europe|North America
+663,704,Action,North America
+664,705,Comedy,North America
+665,707,Crime,Europe|North America
+666,708,Comedy,Europe|North America
+667,709,Animation,North America
+668,710,Comedy,Asia|Europe|North America
+669,711,Adventure,North America
+670,712,Drama,Europe|North America
+671,714,Western,Europe|North America
+672,715,Drama,North America
+673,716,Crime,North America
+674,718,Comedy,North America
+675,719,Comedy,Europe
+676,720,Animation,Asia|Europe
+677,722,Documentary,Europe|North America
+678,724,Drama,Europe|North America
+679,725,Comedy,North America
+680,726,Drama,North America
+681,728,Comedy,North America
+682,729,Drama,North America
+683,731,Mystery,North America
+684,732,Crime,North America
+685,733,Action,North America
+686,734,Comedy,North America
+687,735,Comedy,North America
+688,736,Action,North America
+689,737,Action,North America
+690,741,Animation,North America
+691,742,Horror,North America
+692,743,Comedy,North America
+693,744,Drama,North America
+694,745,Animation,North America
+695,746,Film-Noir,North America
+696,747,Comedy,Europe|North America
+697,748,Action,Europe
+698,749,Drama,North America
+699,750,Sci-Fi,North America
+700,751,Comedy,North America
+701,753,Comedy,Europe|North America
+702,754,Adventure,North America
+703,755,Children's,North America
+704,756,Documentary,Africa|Europe|North America
+705,757,Drama,North America
+706,758,Drama,Europe|North America
+707,759,Documentary,North America
+708,760,War,Europe
+709,761,Adventure,North America
+710,762,Comedy,North America
+711,764,Drama,North America
+712,765,Comedy,North America
+713,766,Drama,North America
+714,767,Drama,North America
+715,771,Comedy,North America|Oceania
+716,774,Drama,Europe
+717,775,Horror,North America
+718,776,Comedy,North America
+719,778,Drama,Asia|Europe|North America|Oceania
+720,779,Drama,North America
+721,780,Action,North America
+722,781,Drama,Europe
+723,782,Thriller,North America
+724,783,Animation,North America|South America
+725,784,Comedy,North America
+726,785,Comedy,Europe
+727,786,Action,North America
+728,787,Documentary,North America
+729,788,Comedy,North America
+730,789,Drama,North America
+731,790,Drama,North America
+732,791,Documentary,Europe|North America
+733,792,Fantasy,Europe|North America
+734,793,Drama,North America
+735,796,Drama,Asia
+736,798,Action,North America
+737,799,Comedy,North America
+738,800,Drama,North America
+739,801,Children's,North America
+740,802,Drama,North America
+741,803,Romance,Europe|North America
+742,804,Comedy,North America
+743,805,Drama,Europe|North America
+744,806,Drama,North America
+745,807,Comedy,North America
+746,808,Adventure,North America
+747,809,Action,North America
+748,810,Children's,North America
+749,813,Comedy,Europe|Oceania
+750,814,Drama,Europe|North America
+751,815,Action,North America
+752,818,Comedy,North America
+753,820,Drama,North America
+754,823,Drama,North America
+755,824,Drama,North America
+756,826,Drama,North America
+757,827,Drama,North America
+758,828,Adventure,Europe|North America
+759,829,Comedy,North America
+760,830,Comedy,North America
+761,831,Drama,North America
+762,832,Drama,North America
+763,833,Comedy,Asia
+764,834,Comedy,Asia|North America|Oceania
+765,835,Drama,Asia|Europe|North America
+766,836,Action,North America
+767,837,Children's,North America
+768,838,Comedy,Europe|North America
+769,839,Action,North America
+770,840,Comedy,North America
+771,841,Horror,North America
+772,842,Horror,Europe|North America
+773,844,Drama,North America
+774,846,Drama,North America
+775,847,Comedy,North America
+776,848,Drama,North America
+777,849,Action,North America
+778,850,Crime,Europe|North America
+779,851,Drama,Asia|Europe|North America
+780,852,Comedy,Europe
+781,853,Drama,North America
+782,854,Drama,Oceania
+783,858,Action,North America
+784,860,Comedy,North America
+785,861,Action,Europe|North America
+786,862,Drama,North America
+787,865,Drama,North America
+788,866,Crime,North America
+789,867,Comedy,North America
+790,868,Comedy,North America
+791,869,Crime,North America
+792,870,Comedy,North America
+793,872,Drama,North America
+794,874,Crime,Europe
+795,875,Drama,North America
+796,876,Action,Europe
+797,877,Drama,Europe|North America
+798,878,Drama,Europe
+799,879,Horror,North America
+800,880,Sci-Fi,North America
+801,881,Children's,North America
+802,882,Drama,North America|South America
+803,885,Children's,North America
+804,886,Action,North America
+805,887,Drama,Europe
+806,888,Animation,North America
+807,889,Romance,Asia
+808,891,Horror,Asia|Europe
+809,892,Comedy,North America
+810,893,Drama,Europe
+811,896,Drama,Europe
+812,897,Adventure,North America
+813,898,Comedy,North America
+814,899,Musical,North America
+815,900,Musical,North America
+816,901,Comedy,North America
+817,902,Drama,Europe|North America|Oceania
+818,903,Mystery,Asia|Europe|North America
+819,904,Mystery,North America
+820,905,Comedy,North America
+821,906,Mystery,Europe
+822,907,Comedy,Europe
+823,908,Drama,Europe|North America
+824,909,Comedy,North America
+825,910,Comedy,Europe|North America
+826,911,Comedy,North America
+827,912,Drama,North America
+828,913,Film-Noir,North America
+829,914,Musical,Europe|North America
+830,915,Comedy,North America
+831,916,Comedy,Europe
+832,917,Children's,North America
+833,918,Musical,Asia|North America
+834,919,Adventure,North America
+835,920,Drama,North America
+836,921,Comedy,North America
+837,922,Film-Noir,North America
+838,923,Drama,North America
+839,924,Drama,North America
+840,925,Adventure,Europe
+841,926,Drama,North America
+842,927,Comedy,North America
+843,928,Romance,Oceania
+844,929,Thriller,North America
+845,930,Film-Noir,Europe
+846,931,Mystery,North America
+847,932,Romance,North America
+848,933,Comedy,Europe|North America
+849,934,Comedy,North America
+850,935,Comedy,Europe
+851,936,Comedy,North America
+852,937,Comedy,North America
+853,938,Musical,Europe|North America
+854,939,Comedy,Asia
+855,940,Action,North America
+856,941,Adventure,North America
+857,942,Crime,North America
+858,943,Drama,North America
+859,944,Drama,Europe
+860,945,Comedy,North America
+861,946,Comedy,North America
+862,947,Comedy,Europe
+863,948,Drama,North America
+864,949,Drama,North America
+865,950,Mystery,Europe|North America
+866,951,Comedy,North America
+867,952,Adventure,North America
+868,953,Drama,Oceania
+869,954,Drama,North America
+870,955,Comedy,Europe
+871,956,Drama,North America
+872,957,Drama,North America
+873,958,Comedy,North America
+874,959,Drama,Europe|North America
+875,960,Crime,North America
+876,961,Drama,North America
+877,962,Crime,North America
+878,963,Musical,Europe|North America
+879,964,Western,North America
+880,965,Thriller,North America
+881,966,Drama,North America
+882,967,Western,North America
+883,968,Horror,North America
+884,969,Action,North America
+885,970,Comedy,North America
+886,971,Drama,Europe|North America
+887,972,Drama,North America
+888,973,Drama,North America
+889,974,Drama,North America
+890,975,Comedy,North America
+891,976,Romance,North America
+892,977,Mystery,North America
+893,980,Action,North America
+894,981,Drama,North America
+895,982,Drama,North America
+896,984,Comedy,North America
+897,985,Documentary,Asia|Europe|North America
+898,986,Adventure,North America
+899,987,Drama,Europe
+900,988,Comedy,North America
+901,990,Action,North America
+902,991,Drama,North America
+903,992,Thriller,North America
+904,993,Drama,North America
+905,994,Drama,Europe
+906,996,Action,Europe
+907,997,Drama,North America
+908,998,Action,North America
+909,999,Crime,Europe
+910,1000,Crime,North America
+911,1002,Comedy,North America
+912,1003,Drama,North America
+913,1004,Action,North America
+914,1005,Children's,North America
+915,1006,Drama,Europe
+916,1007,Children's,North America
+917,1008,Western,Europe|North America
+918,1009,Adventure,North America
+919,1010,Children's,Asia|Europe
+920,1011,Adventure,North America
+921,1012,Children's,North America
+922,1013,Children's,North America
+923,1014,Children's,North America
+924,1015,Adventure,North America
+925,1016,Children's,Europe|North America
+926,1017,Adventure,Europe|North America
+927,1018,Children's,North America
+928,1019,Adventure,North America
+929,1020,Comedy,North America
+930,1021,Children's,North America
+931,1022,Animation,North America
+932,1023,Animation,North America
+933,1024,Animation,North America
+934,1025,Animation,North America
+935,1026,Children's,North America
+936,1027,Drama,North America
+937,1028,Children's,North America
+938,1029,Animation,North America
+939,1030,Adventure,North America
+940,1031,Adventure,North America
+941,1032,Animation,North America
+942,1033,Animation,North America
+943,1034,Crime,North America
+944,1035,Musical,North America
+945,1036,Action,North America
+946,1037,Action,North America
+947,1038,Drama,North America
+948,1039,Documentary,North America
+949,1040,Drama,North America
+950,1041,Drama,North America
+951,1042,Comedy,Europe
+952,1043,Drama,North America
+953,1044,Drama,North America
+954,1046,Drama,North America
+955,1047,Action,Europe|North America
+956,1049,Action,North America
+957,1050,Documentary,North America
+958,1051,Drama,North America
+959,1053,Crime,North America
+960,1054,Drama,North America
+961,1055,Thriller,North America
+962,1056,Drama,North America
+963,1057,Comedy,North America
+964,1058,Drama,North America
+965,1059,Drama,North America
+966,1060,Comedy,North America
+967,1061,Crime,North America
+968,1062,Drama,North America
+969,1063,Drama,North America
+970,1064,Animation,North America
+971,1066,Comedy,Europe|North America
+972,1067,Comedy,North America
+973,1068,Crime,North America
+974,1069,Film-Noir,North America
+975,1070,Adventure,North America
+976,1071,Romance,Europe
+977,1073,Adventure,North America
+978,1076,Thriller,North America
+979,1077,Comedy,North America
+980,1078,Comedy,North America
+981,1079,Comedy,North America
+982,1080,Comedy,North America
+983,1081,Comedy,North America
+984,1082,Drama,North America
+985,1083,Comedy,Asia
+986,1084,Crime,Europe
+987,1085,Adventure,Europe|North America
+988,1086,Mystery,North America
+989,1087,Musical,North America
+990,1088,Musical,North America
+991,1089,Crime,North America
+992,1090,Drama,Europe|North America
+993,1091,Comedy,North America|Oceania
+994,1092,Mystery,North America
+995,1093,Drama,North America
+996,1094,Drama,North America
+997,1095,Drama,North America
+998,1096,Drama,North America
+999,1097,Children's,North America
+1000,1098,Comedy,North America
+1001,1099,Drama,North America
+1002,1100,Action,North America
+1003,1101,Action,North America
+1004,1102,Action,Europe|North America
+1005,1103,Drama,North America
+1006,1104,Drama,North America
+1007,1105,Horror,North America
+1008,1107,Comedy,North America
+1009,1111,Documentary,Europe
+1010,1112,Action,North America
+1011,1113,Comedy,North America
+1012,1114,Drama,North America
+1013,1116,Drama,Europe|North America
+1014,1117,Drama,North America
+1015,1118,Adventure,North America
+1016,1119,Drama,North America
+1017,1120,Drama,North America
+1018,1121,Drama,North America
+1019,1123,Documentary,North America
+1020,1124,Drama,North America
+1021,1125,Comedy,North America
+1022,1126,Comedy,North America
+1023,1127,Action,North America
+1024,1128,Horror,North America
+1025,1129,Action,North America
+1026,1130,Horror,North America
+1027,1131,Drama,Europe|North America
+1028,1132,Drama,North America
+1029,1134,Action,North America
+1030,1135,Comedy,North America
+1031,1136,Comedy,North America
+1032,1138,Documentary,Europe
+1033,1139,Drama,Europe
+1034,1144,Documentary,North America
+1035,1145,Documentary,North America
+1036,1147,Documentary,North America
+1037,1148,Animation,Europe|North America
+1038,1149,Documentary,Europe
+1039,1150,Drama,North America
+1040,1151,Animation,North America
+1041,1152,Crime,North America
+1042,1153,Film-Noir,North America
+1043,1154,Film-Noir,North America
+1044,1160,Comedy,North America
+1045,1161,Drama,Europe
+1046,1162,Comedy,Europe
+1047,1163,Drama,North America
+1048,1164,Drama,North America
+1049,1165,Drama,North America
+1050,1167,Comedy,Europe|North America
+1051,1168,Horror,North America
+1052,1169,Documentary,North America
+1053,1170,Action,North America
+1054,1171,Comedy,North America
+1055,1172,Comedy,Europe|North America
+1056,1173,Drama,North America
+1057,1174,Comedy,North America
+1058,1175,Comedy,North America
+1059,1176,Drama,North America
+1060,1177,Drama,North America
+1061,1178,Drama,North America
+1062,1179,Crime,Europe|North America
+1063,1180,Comedy,North America
+1064,1181,Action,North America
+1065,1183,Drama,North America
+1066,1184,Comedy,Europe|North America
+1067,1185,Drama,North America
+1068,1186,Drama,North America
+1069,1187,Drama,North America
+1070,1188,Comedy,North America
+1071,1189,Documentary,North America
+1072,1190,Drama,North America
+1073,1191,Documentary,North America
+1074,1192,Documentary,North America
+1075,1193,Drama,North America
+1076,1194,Comedy,North America
+1077,1196,Action,North America
+1078,1197,Action,North America
+1079,1198,Action,North America
+1080,1199,Sci-Fi,North America
+1081,1200,Action,North America
+1082,1201,Action,North America
+1083,1202,Comedy,North America
+1084,1203,Drama,North America
+1085,1204,Adventure,Europe
+1086,1206,Sci-Fi,North America
+1087,1207,Drama,North America
+1088,1208,Drama,North America
+1089,1209,Western,Asia|North America
+1090,1210,Action,Europe|North America
+1091,1211,Comedy,North America
+1092,1212,Mystery,Europe|North America
+1093,1213,Crime,Europe
+1094,1214,Action,North America
+1095,1215,Action,North America
+1096,1216,Adventure,North America
+1097,1217,Drama,North America
+1098,1218,Action,North America
+1099,1219,Horror,North America
+1100,1220,Action,Europe|North America
+1101,1221,Action,North America
+1102,1222,Action,North America
+1103,1223,Animation,North America
+1104,1224,Drama,North America
+1105,1225,Drama,North America
+1106,1226,Comedy,Europe
+1107,1227,Crime,Europe
+1108,1228,Drama,Europe|North America
+1109,1230,Comedy,Europe
+1110,1231,Drama,North America
+1111,1232,Mystery,North America
+1112,1233,Action,North America
+1113,1234,Comedy,North America
+1114,1235,Comedy,North America
+1115,1236,Comedy,North America
+1116,1237,Drama,Europe|North America
+1117,1238,Comedy,North America
+1118,1240,Action,Europe
+1119,1241,Comedy,Europe|North America
+1120,1242,Action,North America
+1121,1243,Comedy,North America
+1122,1244,Comedy,North America
+1123,1245,Drama,North America
+1124,1246,Drama,North America
+1125,1247,Drama,North America
+1126,1248,Crime,North America
+1127,1249,Thriller,North America
+1128,1250,Drama,North America
+1129,1251,Drama,Europe|North America
+1130,1252,Film-Noir,Africa
+1131,1253,Drama,Africa
+1132,1254,Adventure,North America
+1133,1255,Comedy,North America
+1134,1256,Comedy,North America
+1135,1257,Comedy,North America
+1136,1258,Horror,Europe
+1137,1259,Adventure,Europe
+1138,1260,Crime,North America
+1139,1261,Action,North America
+1140,1262,Adventure,North America
+1141,1263,Drama,North America
+1142,1264,Action,Europe|North America
+1143,1265,Comedy,Europe|North America
+1144,1266,Western,North America
+1145,1267,Film-Noir,North America
+1146,1268,Drama,North America
+1147,1269,Comedy,North America
+1148,1270,Comedy,North America
+1149,1271,Drama,North America
+1150,1272,Drama,North America
+1151,1273,Comedy,North America
+1152,1274,Adventure,Europe|North America
+1153,1275,Action,North America
+1154,1276,Comedy,Europe|North America
+1155,1277,Action,Oceania
+1156,1278,Comedy,North America
+1157,1279,Comedy,North America
+1158,1280,Drama,North America
+1159,1281,Comedy,North America
+1160,1282,Animation,Europe|North America
+1161,1283,Western,North America
+1162,1284,Film-Noir,Europe|North America
+1163,1285,Comedy,North America
+1164,1286,Drama,North America
+1165,1287,Action,North America
+1166,1288,Comedy,North America
+1167,1289,Documentary,North America
+1168,1290,Drama,North America
+1169,1291,Action,North America
+1170,1292,Comedy,Europe|North America
+1171,1293,Drama,North America
+1172,1295,Drama,North America
+1173,1296,Drama,North America
+1174,1297,Comedy,North America
+1175,1298,Drama,Europe
+1176,1299,Drama,Europe
+1177,1300,Drama,North America
+1178,1301,Sci-Fi,North America
+1179,1302,Drama,North America
+1180,1303,Adventure,Asia|North America
+1181,1304,Action,Europe|North America
+1182,1305,Drama,North America
+1183,1306,Drama,North America
+1184,1307,Comedy,Europe|North America
+1185,1310,Documentary,Europe
+1186,1311,Comedy,North America
+1187,1312,Drama,North America
+1188,1313,Crime,North America
+1189,1315,Documentary,North America
+1190,1317,Comedy,North America
+1191,1320,Action,North America
+1192,1321,Horror,Europe
+1193,1322,Horror,Europe
+1194,1323,Horror,Europe
+1195,1324,Horror,Europe
+1196,1325,Horror,Europe
+1197,1326,Horror,Europe
+1198,1327,Horror,Europe
+1199,1328,Horror,Europe
+1200,1329,Horror,Europe
+1201,1330,Comedy,Europe
+1202,1331,Horror,Europe
+1203,1332,Horror,Europe
+1204,1333,Horror,Europe|North America
+1205,1334,Horror,Europe
+1206,1335,Action,Europe
+1207,1336,Horror,Europe
+1208,1337,Horror,North America
+1209,1339,Horror,North America
+1210,1340,Horror,North America
+1211,1341,Horror,North America
+1212,1342,Horror,North America
+1213,1343,Thriller,Europe|North America
+1214,1344,Film-Noir,North America
+1215,1345,Horror,North America
+1216,1346,Horror,Europe
+1217,1347,Horror,Europe
+1218,1348,Horror,North America
+1219,1349,Horror,North America
+1220,1350,Horror,North America
+1221,1351,Drama,North America
+1222,1352,Crime,North America
+1223,1353,Comedy,North America
+1224,1354,Drama,North America
+1225,1355,Horror,North America
+1226,1356,Action,North America
+1227,1357,Drama,North America
+1228,1358,Drama,North America
+1229,1359,Adventure,North America
+1230,1360,Drama,North America
+1231,1361,Documentary,Europe|North America
+1232,1363,Drama,North America
+1233,1365,Drama,North America
+1234,1366,Drama,North America
+1235,1367,Children's,North America
+1236,1369,Drama,North America
+1237,1370,Action,North America
+1238,1371,Action,North America
+1239,1372,Action,North America
+1240,1373,Action,North America
+1241,1374,Action,North America
+1242,1375,Action,North America
+1243,1376,Action,North America
+1244,1377,Action,North America
+1245,1378,Action,North America
+1246,1379,Action,North America
+1247,1380,Comedy,North America
+1248,1381,Comedy,North America
+1249,1382,Action,North America
+1250,1383,Action,North America
+1251,1384,Drama,North America
+1252,1385,Action,North America
+1253,1386,Western,North America
+1254,1387,Action,Europe|North America
+1255,1388,Action,North America
+1256,1389,Action,Europe|North America
+1257,1390,Comedy,North America
+1258,1391,Action,North America
+1259,1392,Comedy,Europe|North America
+1260,1393,Drama,North America
+1261,1394,Comedy,North America
+1262,1395,Comedy,Europe
+1263,1396,Crime,Asia|Europe
+1264,1397,Drama,Europe
+1265,1398,Romance,Europe|North America
+1266,1399,Drama,North America
+1267,1401,Drama,North America
+1268,1404,Crime,North America
+1269,1405,Animation,Europe
+1270,1406,Drama,North America
+1271,1407,Horror,North America
+1272,1408,Action,North America
+1273,1409,Comedy,North America
+1274,1410,Comedy,North America
+1275,1411,Drama,North America
+1276,1412,Drama,North America
+1277,1413,Drama,North America|Oceania
+1278,1414,Comedy,North America
+1279,1415,Crime,Europe
+1280,1416,Drama,Europe|North America
+1281,1417,Drama,North America
+1282,1419,Drama,North America
+1283,1420,Documentary,North America
+1284,1422,Mystery,North America
+1285,1423,Drama,North America
+1286,1425,Comedy,Asia|Europe|North America
+1287,1426,Children's,North America
+1288,1427,Thriller,North America
+1289,1428,Drama,North America
+1290,1429,Action,North America
+1291,1430,Thriller,Europe
+1292,1431,Action,North America
+1293,1432,Action,North America
+1294,1433,Comedy,North America
+1295,1436,Comedy,North America
+1296,1437,Drama,Europe|North America
+1297,1438,Action,North America
+1298,1439,Comedy,North America
+1299,1440,Comedy,North America
+1300,1441,Comedy,North America
+1301,1442,Drama,North America
+1302,1444,Comedy,Asia|North America
+1303,1445,Comedy,Europe|North America
+1304,1446,Comedy,North America
+1305,1447,Crime,Europe|North America
+1306,1449,Comedy,North America
+1307,1450,War,Europe
+1308,1453,Comedy,Asia|North America
+1309,1454,Comedy,Europe|North America
+1310,1455,Comedy,North America
+1311,1456,Comedy,Asia|North America
+1312,1457,Comedy,North America
+1313,1458,Romance,North America
+1314,1459,Mystery,North America
+1315,1460,Children's,North America
+1316,1461,Comedy,North America
+1317,1463,Comedy,Europe|North America
+1318,1464,Mystery,North America
+1319,1465,Drama,North America
+1320,1466,Crime,Europe
+1321,1468,Comedy,Europe|North America
+1322,1470,Documentary,North America
+1323,1471,Drama,North America
+1324,1472,Crime,North America
+1325,1473,Action,North America
+1326,1474,Children's,Europe|North America
+1327,1475,Romance,North America
+1328,1476,Comedy,North America
+1329,1477,Romance,North America
+1330,1479,Action,North America
+1331,1480,Action,North America
+1332,1482,Comedy,North America
+1333,1483,Drama,Europe
+1334,1484,Mystery,Europe
+1335,1485,Comedy,North America
+1336,1486,Drama,North America
+1337,1487,Drama,Europe
+1338,1488,Action,North America
+1339,1489,Animation,North America
+1340,1490,Comedy,North America
+1341,1493,Romance,North America
+1342,1495,Action,North America
+1343,1496,Drama,Europe|South America
+1344,1497,Action,North America
+1345,1498,Drama,Europe|North America
+1346,1499,Action,Europe|North America
+1347,1500,Comedy,Europe
+1348,1501,Crime,North America
+1349,1502,Romance,North America
+1350,1503,Comedy,Asia
+1351,1504,Drama,Asia
+1352,1507,Drama,Asia|North America
+1353,1508,Drama,North America
+1354,1509,Drama,North America
+1355,1510,Drama,North America
+1356,1511,Comedy,North America
+1357,1513,Comedy,North America
+1358,1514,Romance,Europe
+1359,1515,Drama,North America
+1360,1516,Comedy,North America
+1361,1517,Comedy,Europe|North America
+1362,1518,Action,North America
+1363,1519,Drama,North America
+1364,1520,Romance,Europe
+1365,1522,Drama,Europe|North America
+1366,1523,Action,North America
+1367,1525,Action,North America
+1368,1526,Comedy,North America
+1369,1527,Action,North America
+1370,1528,Comedy,North America
+1371,1529,Drama,North America
+1372,1531,Drama,North America
+1373,1532,Comedy,Oceania
+1374,1533,Drama,North America
+1375,1534,Drama,North America
+1376,1535,Drama,North America
+1377,1537,Comedy,Asia|Europe
+1378,1538,Adventure,North America
+1379,1539,Comedy,Europe|North America|Oceania
+1380,1541,Comedy,Europe
+1381,1542,Comedy,Asia|Europe|North America
+1382,1543,Drama,North America
+1383,1544,Action,North America
+1384,1545,Drama,North America
+1385,1546,Comedy,North America
+1386,1547,Children's,Europe|North America
+1387,1549,Drama,North America
+1388,1550,Comedy,Europe|North America
+1389,1551,Adventure,North America
+1390,1552,Action,North America
+1391,1553,Comedy,North America
+1392,1554,Drama,North America
+1393,1555,Drama,North America
+1394,1556,Action,North America
+1395,1558,Comedy,North America
+1396,1561,Comedy,North America
+1397,1562,Action,North America
+1398,1563,Drama,North America
+1399,1564,Comedy,North America
+1400,1565,Comedy,North America
+1401,1566,Adventure,North America
+1402,1567,Drama,North America
+1403,1569,Comedy,North America
+1404,1570,Sci-Fi,North America
+1405,1571,Comedy,North America
+1406,1572,Drama,North America
+1407,1573,Action,North America
+1408,1574,Romance,North America
+1409,1575,Drama,North America
+1410,1579,Drama,North America
+1411,1580,Action,North America
+1412,1581,Comedy,Europe
+1413,1582,Adventure,North America
+1414,1583,Children's,North America
+1415,1584,Drama,North America
+1416,1585,Comedy,North America
+1417,1586,Action,North America
+1418,1587,Action,Europe
+1419,1588,Children's,Europe
+1420,1589,Crime,North America
+1421,1590,Action,North America
+1422,1591,Action,North America
+1423,1592,Children's,North America
+1424,1593,Comedy,North America
+1425,1594,Drama,North America
+1426,1595,Adventure,North America
+1427,1596,Drama,North America
+1428,1597,Action,North America
+1429,1598,Crime,North America
+1430,1599,Action,Europe
+1431,1600,Drama,Asia|Europe
+1432,1601,Crime,North America
+1433,1602,Comedy,Asia|North America
+1434,1603,Sci-Fi,North America
+1435,1604,Action,North America
+1436,1605,Adventure,Europe|North America
+1437,1606,Action,Europe
+1438,1608,Action,North America
+1439,1609,Drama,Europe
+1440,1610,Action,North America
+1441,1611,Drama,North America
+1442,1612,Comedy,North America
+1443,1613,Drama,Asia|Europe|North America
+1444,1614,Comedy,North America
+1445,1615,Adventure,Europe|North America
+1446,1616,Action,North America
+1447,1617,Crime,North America
+1448,1619,Drama,North America
+1449,1620,Crime,North America
+1450,1621,Drama,North America
+1451,1622,Comedy,Europe|North America
+1452,1623,Horror,North America
+1453,1624,Drama,North America
+1454,1625,Mystery,North America
+1455,1626,Action,North America
+1456,1627,Action,North America
+1457,1629,Comedy,North America
+1458,1631,Thriller,North America
+1459,1632,Comedy,North America
+1460,1633,Drama,North America
+1461,1635,Drama,North America
+1462,1636,Action,North America
+1463,1639,Drama,North America
+1464,1640,Comedy,Europe
+1465,1641,Comedy,North America
+1466,1642,Comedy,North America
+1467,1643,Drama,Europe|Oceania
+1468,1644,Horror,Oceania
+1469,1645,Crime,North America|Oceania
+1470,1646,Comedy,North America
+1471,1647,Crime,North America
+1472,1648,Comedy,North America
+1473,1649,Documentary,North America
+1474,1650,Drama,North America
+1475,1651,Drama,North America
+1476,1652,Documentary,North America
+1477,1653,Drama,North America
+1478,1654,Children's,North America
+1479,1655,Horror,Europe
+1480,1656,Romance,Europe
+1481,1657,Documentary,Europe
+1482,1658,Romance,Europe
+1483,1659,Drama,North America
+1484,1660,Drama,North America
+1485,1661,Thriller,North America
+1486,1662,Crime,North America
+1487,1663,Comedy,Europe
+1488,1664,Drama,Europe|North America
+1489,1665,Comedy,North America
+1490,1666,Romance,Europe|North America
+1491,1667,Action,North America
+1492,1668,Drama,Europe
+1493,1669,Romance,North America
+1494,1670,Drama,Europe
+1495,1671,Crime,North America
+1496,1672,Drama,North America
+1497,1673,Drama,North America
+1498,1674,Drama,North America
+1499,1675,Crime,Europe|North America
+1500,1676,Action,North America
+1501,1677,Comedy,North America
+1502,1678,Drama,North America
+1503,1679,Comedy,North America
+1504,1680,Drama,Asia|Europe
+1505,1681,Action,North America
+1506,1682,Drama,Europe|North America
+1507,1683,Drama,North America
+1508,1684,Romance,North America
+1509,1685,Romance,North America
+1510,1686,Crime,North America
+1511,1687,Action,North America
+1512,1688,Animation,Asia
+1513,1689,Comedy,North America
+1514,1690,Action,North America
+1515,1692,Horror,North America
+1516,1693,Drama,North America
+1517,1694,Drama,North America
+1518,1695,Drama,North America
+1519,1696,Drama,North America
+1520,1699,Drama,North America
+1521,1701,Comedy,North America
+1522,1702,Children's,North America
+1523,1703,Comedy,North America
+1524,1704,Drama,North America
+1525,1707,Children's,North America
+1526,1711,Comedy,North America
+1527,1713,Children's,Asia|North America
+1528,1715,Thriller,North America
+1529,1717,Horror,North America
+1530,1718,Thriller,North America
+1531,1719,Drama,North America
+1532,1720,Action,North America
+1533,1721,Drama,North America
+1534,1722,Action,North America
+1535,1724,Drama,North America
+1536,1725,Drama,North America
+1537,1726,Drama,North America
+1538,1727,Drama,North America
+1539,1728,Drama,North America
+1540,1729,Crime,North America|Oceania
+1541,1730,Drama,Europe|North America
+1542,1731,Comedy,North America
+1543,1732,Comedy,North America
+1544,1733,Drama,Europe
+1545,1734,Comedy,North America
+1546,1735,Drama,Europe
+1547,1739,Action,North America
+1548,1743,Documentary,North America
+1549,1744,Action,North America
+1550,1746,Comedy,Europe|North America
+1551,1747,Comedy,North America
+1552,1748,Film-Noir,Europe
+1553,1749,Romance,North America
+1554,1750,Adventure,North America
+1555,1752,Action,Europe
+1556,1753,Comedy,Europe
+1557,1754,Action,North America
+1558,1755,Romance,North America
+1559,1756,Horror,Europe
+1560,1759,Drama,North America
+1561,1760,Comedy,North America
+1562,1762,Action,North America
+1563,1764,Comedy,Europe|North America
+1564,1767,Drama,North America
+1565,1769,Action,Europe
+1566,1770,Romance,North America
+1567,1771,Horror,North America
+1568,1772,Action,North America
+1569,1773,Action,North America
+1570,1777,Comedy,North America
+1571,1779,Adventure,Europe
+1572,1780,Documentary,North America
+1573,1782,Comedy,North America
+1574,1783,Film-Noir,North America
+1575,1784,Comedy,North America
+1576,1785,Action,Europe|South America
+1577,1787,Documentary,North America
+1578,1788,Action,Europe
+1579,1791,Crime,Europe
+1580,1792,Action,Europe
+1581,1793,Comedy,North America
+1582,1794,Comedy,Europe
+1583,1795,Drama,Europe|North America
+1584,1796,Action,North America
+1585,1797,Documentary,North America
+1586,1798,Thriller,Asia
+1587,1799,Crime,North America
+1588,1801,Action,North America
+1589,1804,Crime,Europe
+1590,1805,Crime,North America
+1591,1806,Adventure,North America
+1592,1807,Drama,North America
+1593,1809,Comedy,North America
+1594,1810,Drama,Europe
+1595,1811,Drama,Europe
+1596,1812,Children's,North America
+1597,1814,Drama,Europe
+1598,1815,Drama,Europe
+1599,1816,Comedy,North America
+1600,1817,Comedy,North America
+1601,1821,Comedy,North America
+1602,1822,Children's,Europe|North America
+1603,1824,Comedy,North America
+1604,1825,Action,Europe|North America
+1605,1826,Adventure,Asia
+1606,1827,Comedy,Europe|North America
+1607,1829,Drama,North America
+1608,1831,Action,Europe
+1609,1832,Action,North America|Oceania
+1610,1833,Action,Asia
+1611,1834,Drama,North America
+1612,1835,Romance,Asia|North America
+1613,1836,Drama,Europe|North America
+1614,1837,Comedy,North America
+1615,1839,Comedy,North America
+1616,1840,Drama,North America
+1617,1841,Drama,North America
+1618,1842,Crime,North America
+1619,1843,Children's,North America
+1620,1844,Drama,Oceania
+1621,1845,Comedy,North America
+1622,1846,Drama,North America
+1623,1848,Adventure,Europe|North America
+1624,1849,Adventure,Asia|North America
+1625,1850,Drama,Europe|North America
+1626,1851,Drama,North America
+1627,1852,Drama,Asia
+1628,1853,Comedy,Asia
+1629,1854,Comedy,North America
+1630,1855,Comedy,Europe|North America
+1631,1856,Documentary,North America
+1632,1857,Comedy,North America
+1633,1858,Action,Europe
+1634,1859,Drama,Europe
+1635,1860,Drama,North America
+1636,1861,Comedy,Europe
+1637,1862,Horror,North America
+1638,1863,Comedy,Europe
+1639,1864,Comedy,North America
+1640,1865,Documentary,North America
+1641,1866,Action,North America
+1642,1867,Action,North America
+1643,1869,Action,North America
+1644,1870,Comedy,Europe
+1645,1871,Comedy,Europe|North America
+1646,1872,Drama,Europe|North America
+1647,1873,Drama,Europe|North America
+1648,1874,Comedy,Europe|North America
+1649,1875,Comedy,North America
+1650,1876,Action,North America
+1651,1877,Drama,North America
+1652,1878,Comedy,North America
+1653,1879,Drama,North America
+1654,1880,Drama,North America
+1655,1881,Adventure,North America
+1656,1882,Action,North America
+1657,1883,Comedy,Europe
+1658,1884,Comedy,North America
+1659,1885,Comedy,North America
+1660,1886,Comedy,Europe|North America
+1661,1887,Adventure,North America
+1662,1888,Comedy,Europe|North America
+1663,1889,Thriller,North America
+1664,1890,Drama,North America
+1665,1891,Horror,North America
+1666,1892,Mystery,North America
+1667,1893,Drama,North America
+1668,1894,Adventure,North America
+1669,1895,Comedy,North America
+1670,1896,Comedy,North America
+1671,1897,Drama,North America
+1672,1898,Drama,North America
+1673,1899,Adventure,North America
+1674,1900,Drama,North America
+1675,1901,Documentary,North America
+1676,1902,Drama,North America
+1677,1903,Comedy,North America
+1678,1904,Comedy,Europe|North America
+1679,1905,Drama,Europe|North America
+1680,1906,Comedy,Europe
+1681,1907,Animation,Europe|North America
+1682,1909,Mystery,North America
+1683,1910,Action,Europe|North America
+1684,1911,Comedy,North America
+1685,1912,Action,North America
+1686,1913,Drama,North America
+1687,1914,Comedy,North America
+1688,1915,Drama,North America
+1689,1916,Action,Europe
+1690,1917,Action,Europe|North America
+1691,1918,Action,North America
+1692,1919,Children's,Europe|North America
+1693,1920,Animation,North America
+1694,1921,Sci-Fi,Europe|North America
+1695,1922,Drama,Europe|North America
+1696,1923,Comedy,Europe
+1697,1924,Horror,Europe
+1698,1925,Drama,North America
+1699,1926,Musical,North America
+1700,1927,War,Oceania
+1701,1928,Western,Europe
+1702,1929,Drama,Europe
+1703,1930,Drama,North America
+1704,1931,Adventure,North America
+1705,1932,Musical,North America
+1706,1933,Drama,North America
+1707,1934,Comedy,North America
+1708,1935,Drama,North America
+1709,1936,Drama,North America
+1710,1937,Comedy,Europe
+1711,1938,Drama,Europe
+1712,1939,Drama,North America
+1713,1940,Drama,North America
+1714,1941,Drama,Europe
+1715,1942,Drama,North America
+1716,1943,Drama,North America
+1717,1944,Drama,North America
+1718,1945,Crime,Europe|North America
+1719,1946,Drama,Europe|North America
+1720,1947,Musical,North America
+1721,1948,Comedy,North America
+1722,1949,Drama,North America
+1723,1950,Drama,North America
+1724,1951,Musical,North America
+1725,1952,Drama,Europe|North America
+1726,1953,Action,North America
+1727,1954,Action,Europe
+1728,1955,Drama,North America
+1729,1956,Drama,North America
+1730,1957,Drama,North America
+1731,1958,Comedy,North America
+1732,1959,Drama,North America
+1733,1960,Drama,North America
+1734,1961,Drama,North America
+1735,1962,Drama,North America
+1736,1963,Comedy,North America
+1737,1964,Drama,Europe|North America
+1738,1965,Comedy,Asia|Europe|North America
+1739,1966,Comedy,Europe|North America
+1740,1967,Adventure,Europe
+1741,1968,Comedy,Europe
+1742,1969,Horror,North America
+1743,1970,Horror,North America
+1744,1971,Horror,North America
+1745,1972,Horror,North America
+1746,1973,Horror,North America
+1747,1974,Horror,North America
+1748,1975,Horror,North America
+1749,1976,Horror,North America
+1750,1977,Horror,North America
+1751,1978,Horror,North America
+1752,1979,Horror,Europe
+1753,1980,Horror,North America
+1754,1981,Horror,Europe|North America
+1755,1982,Horror,Europe
+1756,1983,Horror,North America
+1757,1984,Horror,North America
+1758,1985,Horror,Asia|North America
+1759,1986,Horror,North America
+1760,1987,Horror,North America
+1761,1988,Horror,North America
+1762,1989,Horror,North America
+1763,1990,Horror,North America
+1764,1991,Horror,North America
+1765,1992,Horror,North America
+1766,1993,Horror,North America
+1767,1994,Horror,North America
+1768,1995,Horror,Europe|North America
+1769,1996,Horror,Europe|North America
+1770,1997,Horror,North America
+1771,1998,Horror,Europe
+1772,1999,Horror,North America
+1773,2000,Action,North America
+1774,2001,Action,North America
+1775,2002,Action,North America
+1776,2003,Comedy,Europe
+1777,2004,Comedy,North America
+1778,2005,Adventure,Asia|Europe|North America
+1779,2006,Action,Asia|Europe
+1780,2007,Comedy,North America
+1781,2008,Crime,North America
+1782,2009,Sci-Fi,North America
+1783,2010,Sci-Fi,North America
+1784,2011,Comedy,North America
+1785,2012,Comedy,Europe
+1786,2013,Action,North America
+1787,2014,Children's,Oceania
+1788,2015,Children's,Europe
+1789,2016,Children's,North America
+1790,2017,Children's,Europe|North America
+1791,2018,Animation,North America
+1792,2019,Action,North America
+1793,2020,Drama,North America
+1794,2021,Fantasy,North America
+1795,2022,Drama,North America
+1796,2023,Action,Europe
+1797,2024,Drama,Europe|North America
+1798,2025,Drama,North America
+1799,2026,Horror,North America
+1800,2027,Comedy,Europe|North America
+1801,2028,Action,Europe
+1802,2029,Comedy,North America
+1803,2031,Children's,North America
+1804,2032,Children's,Europe|North America
+1805,2033,Animation,North America
+1806,2034,Sci-Fi,North America
+1807,2035,Children's,Europe|North America
+1808,2036,Children's,North America
+1809,2037,Adventure,North America
+1810,2038,Children's,North America
+1811,2039,Adventure,North America
+1812,2040,Children's,North America
+1813,2041,Action,North America
+1814,2042,Children's,Europe|North America
+1815,2043,Adventure,Europe|North America
+1816,2044,Comedy,Asia|North America
+1817,2045,Adventure,Europe|North America|Oceania
+1818,2046,Adventure,North America
+1819,2047,Children's,North America
+1820,2048,Animation,North America
+1821,2049,Comedy,Europe|North America
+1822,2050,Adventure,North America
+1823,2051,Adventure,North America
+1824,2052,Children's,North America
+1825,2053,Children's,North America
+1826,2054,Adventure,North America
+1827,2055,Comedy,Asia
+1828,2056,Adventure,North America
+1829,2057,Adventure,North America
+1830,2058,Action,North America
+1831,2059,Children's,North America
+1832,2060,Comedy,Asia|North America
+1833,2061,Documentary,Asia|North America
+1834,2062,Drama,Europe|North America
+1835,2063,Drama,North America
+1836,2064,Comedy,North America
+1837,2065,Comedy,North America
+1838,2066,Film-Noir,North America
+1839,2067,Drama,North America
+1840,2068,Drama,North America
+1841,2069,Drama,Europe
+1842,2070,Drama,North America
+1843,2071,Drama,Europe
+1844,2072,Comedy,North America
+1845,2073,Comedy,North America
+1846,2074,Drama,North America
+1847,2075,Drama,North America
+1848,2076,Drama,North America
+1849,2077,Adventure,Asia|Europe
+1850,2078,Animation,North America
+1851,2079,Children's,Europe
+1852,2080,Animation,Europe
+1853,2081,Animation,North America
+1854,2082,Children's,North America
+1855,2083,Children's,Europe
+1856,2084,Children's,Asia|Europe
+1857,2085,Animation,North America
+1858,2086,Drama,North America
+1859,2087,Animation,North America
+1860,2088,Adventure,Europe
+1861,2089,Animation,North America
+1862,2090,Animation,Europe|North America
+1863,2091,Children's,Asia
+1864,2092,Animation,North America
+1865,2093,Adventure,Europe|North America
+1866,2094,Action,North America
+1867,2095,Children's,North America
+1868,2096,Animation,North America
+1869,2097,Children's,North America
+1870,2098,Children's,North America
+1871,2099,Adventure,North America
+1872,2100,Comedy,North America
+1873,2101,Adventure,Europe|North America
+1874,2102,Animation,North America
+1875,2103,Adventure,North America
+1876,2104,Drama,North America
+1877,2105,Action,Europe|North America
+1878,2106,Drama,North America
+1879,2107,Horror,Europe
+1880,2108,Comedy,Europe
+1881,2109,Comedy,Europe|North America
+1882,2110,Comedy,Europe|North America
+1883,2111,Comedy,North America
+1884,2112,Crime,North America
+1885,2113,Horror,North America
+1886,2114,Drama,Europe
+1887,2115,Action,North America
+1888,2116,Adventure,North America
+1889,2117,Drama,North America
+1890,2118,Horror,North America
+1891,2119,Horror,North America
+1892,2120,Drama,North America
+1893,2121,Horror,Europe|North America
+1894,2122,Horror,Europe|North America
+1895,2123,Animation,Europe
+1896,2124,Comedy,North America
+1897,2125,Drama,Asia
+1898,2126,Action,North America
+1899,2127,Drama,Asia|Europe
+1900,2128,Comedy,Europe|North America
+1901,2129,Documentary,Europe|North America
+1902,2130,Crime,North America
+1903,2131,Drama,North America
+1904,2132,Drama,North America
+1905,2133,Adventure,Europe|North America
+1906,2134,Comedy,Europe|North America
+1907,2135,Adventure,North America
+1908,2136,Comedy,North America
+1909,2137,Animation,Europe|North America
+1910,2138,Animation,North America
+1911,2139,Animation,North America
+1912,2140,Children's,North America
+1913,2141,Animation,Europe
+1914,2142,Animation,Europe
+1915,2143,Adventure,North America
+1916,2144,Comedy,North America
+1917,2145,Comedy,Europe
+1918,2146,Drama,North America
+1919,2147,Drama,North America
+1920,2148,Comedy,Europe|North America
+1921,2149,Comedy,Oceania
+1922,2150,Comedy,North America
+1923,2151,Comedy,North America
+1924,2152,Children's,North America|Oceania
+1925,2153,Action,North America
+1926,2154,Drama,North America
+1927,2155,Comedy,Asia
+1928,2156,Comedy,North America
+1929,2157,Romance,North America
+1930,2158,Crime,North America
+1931,2159,Crime,North America
+1932,2160,Horror,North America
+1933,2161,Adventure,Europe
+1934,2162,Adventure,North America
+1935,2163,Comedy,North America
+1936,2164,Drama,North America
+1937,2165,Drama,North America
+1938,2166,Drama,North America
+1939,2167,Action,North America
+1940,2168,Drama,North America
+1941,2169,Comedy,North America|Oceania
+1942,2170,Action,North America
+1943,2171,Comedy,Europe
+1944,2172,Comedy,North America
+1945,2173,Adventure,North America
+1946,2174,Comedy,North America
+1947,2175,Drama,Asia
+1948,2176,Thriller,Europe
+1949,2177,Comedy,North America
+1950,2178,Thriller,Europe
+1951,2179,Thriller,Europe|North America
+1952,2180,Thriller,North America
+1953,2181,Thriller,Europe
+1954,2182,Drama,North America
+1955,2183,Thriller,Europe
+1956,2184,Mystery,North America
+1957,2185,Thriller,Europe
+1958,2186,Film-Noir,Europe
+1959,2187,Mystery,North America
+1960,2188,Drama,North America
+1961,2189,Animation,North America
+1962,2190,Drama,South America
+1963,2191,Comedy,North America
+1964,2192,Drama,North America
+1965,2193,Action,North America
+1966,2194,Action,North America
+1967,2195,Comedy,North America
+1968,2196,Action,Europe
+1969,2197,Drama,Europe|North America
+1970,2198,Documentary,North America
+1971,2200,Drama,Europe
+1972,2201,Drama,Europe
+1973,2202,Drama,Europe
+1974,2203,Film-Noir,Europe
+1975,2204,Thriller,North America
+1976,2205,Comedy,North America
+1977,2206,Mystery,Europe
+1978,2207,Drama,North America
+1979,2208,Comedy,North America
+1980,2209,Crime,North America
+1981,2210,Thriller,Europe|North America
+1982,2211,Thriller,Europe|North America
+1983,2212,Thriller,North America
+1984,2213,Comedy,Europe|North America
+1985,2215,Comedy,Europe
+1986,2217,Comedy,North America
+1987,2219,Mystery,North America
+1988,2221,Thriller,Europe|North America
+1989,2227,Thriller,Europe
+1990,2231,Crime,Europe
+1991,2232,Sci-Fi,Europe|North America
+1992,2233,Drama,Europe
+1993,2234,Drama,North America
+1994,2235,Drama,Asia
+1995,2236,Drama,North America
+1996,2237,Drama,North America
+1997,2238,Comedy,North America
+1998,2239,Comedy,North America
+1999,2240,Drama,Europe|North America
+2000,2241,Comedy,North America|Oceania
+2001,2242,Drama,North America
+2002,2243,Comedy,Asia|North America
+2003,2244,Comedy,Europe|North America
+2004,2245,Comedy,North America
+2005,2246,Comedy,Europe
+2006,2247,Comedy,North America
+2007,2248,Comedy,North America
+2008,2249,Comedy,North America
+2009,2250,Drama,North America
+2010,2251,Comedy,North America
+2011,2252,Comedy,Europe
+2012,2253,Action,Europe
+2013,2255,Comedy,Europe
+2014,2256,Horror,Europe
+2015,2257,Comedy,Europe
+2016,2259,Comedy,North America
+2017,2260,Action,North America
+2018,2261,Comedy,North America
+2019,2262,Comedy,North America
+2020,2263,Thriller,Europe|North America
+2021,2264,Drama,North America
+2022,2265,Adventure,Asia|Europe
+2023,2266,Comedy,North America
+2024,2267,Mystery,Asia
+2025,2268,Crime,North America
+2026,2269,Drama,Europe|North America
+2027,2271,Drama,Asia|Europe
+2028,2272,Drama,North America
+2029,2273,Action,North America
+2030,2275,Action,North America
+2031,2276,Drama,North America
+2032,2278,Action,Asia|North America
+2033,2279,Horror,Europe
+2034,2280,Crime,North America
+2035,2281,Crime,North America
+2036,2282,Comedy,North America
+2037,2283,Drama,North America
+2038,2284,Drama,North America
+2039,2285,Drama,North America
+2040,2286,Comedy,North America
+2041,2287,Sci-Fi,North America
+2042,2288,Action,North America
+2043,2289,Comedy,Europe
+2044,2290,Comedy,Europe|North America
+2045,2291,Drama,North America
+2046,2292,Romance,North America
+2047,2293,Drama,North America
+2048,2294,Animation,North America
+2049,2295,Comedy,North America
+2050,2296,Comedy,Europe|North America
+2051,2297,Drama,North America
+2052,2298,Thriller,Asia|North America
+2053,2299,Comedy,Asia
+2054,2300,Comedy,North America
+2055,2301,Comedy,North America
+2056,2302,Comedy,North America
+2057,2303,Drama,North America
+2058,2304,Drama,North America
+2059,2305,Drama,Europe|North America
+2060,2306,Comedy,North America
+2061,2307,Action,North America
+2062,2308,Action,North America
+2063,2309,Drama,North America
+2064,2310,Drama,North America
+2065,2311,Mystery,North America
+2066,2312,Drama,North America
+2067,2313,Drama,North America
+2068,2314,Drama,North America
+2069,2315,Horror,Europe
+2070,2316,Drama,North America
+2071,2317,Comedy,Europe
+2072,2318,Comedy,North America
+2073,2320,Drama,Europe
+2074,2321,Comedy,North America
+2075,2322,Action,North America
+2076,2323,Documentary,North America
+2077,2324,Comedy,North America
+2078,2325,Comedy,Europe
+2079,2326,Drama,Asia
+2080,2327,Horror,Europe|North America
+2081,2328,Horror,North America
+2082,2329,Drama,North America
+2083,2330,Documentary,North America
+2084,2331,Comedy,Europe
+2085,2332,Crime,Europe|North America
+2086,2333,Drama,North America
+2087,2334,Action,North America
+2088,2335,Comedy,North America
+2089,2336,Drama,North America
+2090,2337,Drama,North America
+2091,2338,Horror,Asia|North America
+2092,2339,Comedy,Europe
+2093,2340,Romance,North America
+2094,2341,Drama,North America
+2095,2342,Comedy,Europe
+2096,2343,Drama,North America
+2097,2344,Action,North America
+2098,2345,Drama,North America
+2099,2346,Sci-Fi,North America
+2100,2347,Action,North America
+2101,2348,Drama,Europe
+2102,2349,Comedy,North America
+2103,2350,Comedy,Europe
+2104,2351,Drama,North America
+2105,2352,Comedy,Europe
+2106,2353,Action,Europe
+2107,2354,Animation,Europe|North America
+2108,2355,Animation,Europe|North America
+2109,2356,Comedy,Europe
+2110,2357,Drama,Europe|North America
+2111,2358,Drama,Europe
+2112,2359,Comedy,North America
+2113,2360,Drama,North America
+2114,2361,Comedy,North America
+2115,2362,Drama,Europe
+2116,2363,Action,Asia
+2117,2364,Action,North America
+2118,2365,Action,Asia|North America
+2119,2366,Action,Asia
+2120,2367,Action,North America
+2121,2368,Action,Europe
+2122,2369,Comedy,North America
+2123,2370,Action,North America
+2124,2371,Comedy,North America
+2125,2372,Comedy,North America
+2126,2373,Action,North America
+2127,2374,Comedy,North America
+2128,2375,Comedy,North America
+2129,2376,Action,North America
+2130,2377,Horror,North America
+2131,2378,Comedy,North America
+2132,2379,Comedy,North America
+2133,2380,Comedy,North America
+2134,2381,Comedy,North America
+2135,2382,Comedy,North America
+2136,2383,Comedy,North America
+2137,2384,Children's,North America
+2138,2385,Comedy,North America
+2139,2386,Drama,North America
+2140,2387,Comedy,North America
+2141,2388,Drama,North America
+2142,2389,Crime,North America
+2143,2390,Comedy,North America
+2144,2391,Crime,North America
+2145,2392,Comedy,North America
+2146,2393,Action,Europe|North America
+2147,2394,Animation,North America
+2148,2395,Comedy,North America
+2149,2396,Comedy,Europe
+2150,2397,Drama,Europe|North America
+2151,2398,Drama,North America
+2152,2399,Adventure,North America
+2153,2400,Children's,North America
+2154,2401,Western,North America
+2155,2402,Action,Europe|North America
+2156,2403,Action,Europe|North America
+2157,2404,Action,Europe
+2158,2405,Action,North America|Oceania
+2159,2406,Action,Europe|North America
+2160,2407,Comedy,North America
+2161,2408,Comedy,North America
+2162,2409,Action,North America
+2163,2410,Action,North America
+2164,2411,Action,North America
+2165,2412,Action,North America
+2166,2413,Comedy,Europe
+2167,2414,Action,North America
+2168,2415,Drama,North America
+2169,2416,Comedy,Europe|North America
+2170,2417,Comedy,North America
+2171,2418,Comedy,North America
+2172,2419,Drama,Europe|North America
+2173,2420,Drama,North America
+2174,2421,Action,North America
+2175,2422,Action,North America
+2176,2423,Comedy,North America
+2177,2424,Comedy,North America
+2178,2425,Crime,North America
+2179,2426,Comedy,North America
+2180,2427,Action,North America
+2181,2428,Horror,North America
+2182,2429,Adventure,Europe|North America
+2183,2430,Adventure,North America
+2184,2431,Comedy,Europe
+2185,2432,Drama,North America
+2186,2433,Drama,North America
+2187,2434,Drama,Europe|North America
+2188,2435,Drama,North America
+2189,2436,Comedy,North America
+2190,2437,Drama,Europe|North America
+2191,2438,Drama,Europe|North America
+2192,2439,Drama,Asia|Europe
+2193,2440,Drama,North America
+2194,2441,Drama,Europe|North America
+2195,2442,Drama,North America
+2196,2443,Drama,Europe|North America
+2197,2444,Comedy,Europe|North America
+2198,2445,Drama,Europe|North America
+2199,2446,Thriller,North America
+2200,2447,Comedy,Europe|North America
+2201,2448,Horror,North America
+2202,2449,Adventure,North America
+2203,2450,Adventure,North America
+2204,2451,Horror,Europe|North America
+2205,2452,Horror,North America
+2206,2453,Drama,Europe
+2207,2454,Horror,Europe|North America
+2208,2455,Horror,North America
+2209,2456,Horror,Asia|Europe|North America
+2210,2457,Action,North America
+2211,2458,Comedy,North America
+2212,2459,Horror,North America
+2213,2460,Horror,North America
+2214,2461,Horror,Europe|North America
+2215,2462,Horror,North America
+2216,2463,Comedy,North America
+2217,2464,Horror,Europe|North America
+2218,2465,Horror,Europe|North America
+2219,2466,Drama,North America
+2220,2467,Mystery,North America
+2221,2468,Action,North America
+2222,2469,Comedy,Europe|North America
+2223,2470,Adventure,North America
+2224,2471,Adventure,North America
+2225,2472,Comedy,North America
+2226,2473,Comedy,Europe
+2227,2474,Drama,Europe|North America
+2228,2475,Action,Asia
+2229,2476,Action,North America
+2230,2477,Adventure,North America
+2231,2478,Comedy,North America
+2232,2479,Drama,Europe|North America
+2233,2480,Drama,North America
+2234,2481,Drama,North America
+2235,2482,Comedy,North America
+2236,2483,Comedy,North America
+2237,2484,Comedy,North America
+2238,2485,Comedy,Europe
+2239,2486,Drama,Oceania
+2240,2487,Action,Europe|North America
+2241,2488,Drama,Europe
+2242,2490,Action,North America
+2243,2491,Comedy,North America
+2244,2492,Comedy,North America
+2245,2493,Drama,North America
+2246,2494,Documentary,Europe|North America
+2247,2495,Animation,North America
+2248,2496,Comedy,North America|Oceania
+2249,2497,Romance,North America
+2250,2498,Comedy,North America
+2251,2499,Comedy,North America
+2252,2500,Comedy,Europe|North America
+2253,2501,Drama,Europe
+2254,2502,Comedy,North America
+2255,2503,Drama,North America
+2256,2504,Comedy,North America
+2257,2505,Thriller,North America
+2258,2506,Comedy,North America
+2259,2507,Comedy,Europe
+2260,2509,Comedy,Europe
+2261,2511,Crime,Europe
+2262,2512,Drama,Asia
+2263,2513,Horror,North America
+2264,2514,Horror,North America
+2265,2515,Horror,Europe|North America
+2266,2516,Horror,Europe
+2267,2517,Horror,North America
+2268,2518,Comedy,Europe
+2269,2519,Horror,North America
+2270,2520,Drama,North America
+2271,2521,Drama,Europe
+2272,2522,Drama,Europe|North America|Oceania
+2273,2523,Drama,Asia|Europe|North America
+2274,2524,Action,Oceania
+2275,2525,Action,Europe|North America
+2276,2526,Sci-Fi,Asia|Oceania
+2277,2527,Action,Europe|North America
+2278,2528,Action,North America
+2279,2529,Action,North America
+2280,2530,Action,Europe|North America
+2281,2531,Action,Asia|North America
+2282,2532,Action,North America
+2283,2533,Action,North America
+2284,2534,Action,North America
+2285,2535,Action,North America
+2286,2536,Drama,North America
+2287,2537,Adventure,North America
+2288,2538,Documentary,North America
+2289,2539,Comedy,North America
+2290,2540,Action,North America
+2291,2541,Drama,North America
+2292,2542,Comedy,North America
+2293,2543,Comedy,North America
+2294,2544,Drama,North America
+2295,2545,Comedy,North America
+2296,2546,Drama,Asia
+2297,2548,Horror,Asia|Europe|North America
+2298,2549,Action,North America
+2299,2550,Horror,Europe|North America
+2300,2551,Drama,North America
+2301,2552,Comedy,North America
+2302,2553,Horror,Asia
+2303,2554,Horror,Europe
+2304,2555,Comedy,North America
+2305,2556,Comedy,North America
+2306,2557,Drama,North America
+2307,2558,Comedy,North America
+2308,2559,Animation,North America
+2309,2560,Drama,North America
+2310,2561,Crime,North America
+2311,2562,Drama,North America
+2312,2563,Drama,North America
+2313,2565,Musical,North America
+2314,2566,Animation,North America
+2315,2567,Comedy,Europe
+2316,2568,Action,North America
+2317,2569,Drama,North America
+2318,2570,Drama,North America
+2319,2571,Action,Europe
+2320,2572,Comedy,North America
+2321,2573,Drama,North America
+2322,2574,Comedy,Europe|North America
+2323,2575,Drama,North America
+2324,2576,Drama,Asia|North America
+2325,2577,Comedy,Europe|North America
+2326,2578,Sci-Fi,Asia
+2327,2579,Drama,North America
+2328,2580,Crime,North America
+2329,2581,Comedy,North America
+2330,2582,Action,North America
+2331,2583,Mystery,Europe|North America
+2332,2584,Comedy,North America
+2333,2585,Drama,Europe
+2334,2586,Comedy,Europe
+2335,2587,Comedy,North America
+2336,2589,Comedy,North America
+2337,2590,Drama,Europe|North America
+2338,2591,Comedy,Europe|North America
+2339,2593,Comedy,North America|Oceania
+2340,2594,Drama,North America
+2341,2596,Comedy,Europe
+2342,2597,Comedy,North America
+2343,2598,Comedy,North America
+2344,2599,Comedy,North America
+2345,2600,Action,North America
+2346,2602,Adventure,North America
+2347,2605,Crime,North America
+2348,2606,Comedy,North America
+2349,2607,Drama,Europe|North America
+2350,2608,Thriller,North America
+2351,2609,Drama,North America
+2352,2610,Drama,North America
+2353,2611,Drama,North America
+2354,2612,Drama,North America
+2355,2613,Action,Europe
+2356,2614,Action,North America
+2357,2615,Adventure,Asia|Europe|North America
+2358,2616,Action,Europe|North America
+2359,2617,Action,North America
+2360,2618,Comedy,North America
+2361,2619,Drama,Europe
+2362,2620,Drama,North America
+2363,2621,Drama,North America
+2364,2622,Comedy,North America
+2365,2623,Comedy,North America
+2366,2624,Drama,North America
+2367,2625,Action,North America
+2368,2626,Comedy,North America
+2369,2627,Documentary,Asia|Europe|North America
+2370,2628,Action,Oceania
+2371,2629,Comedy,North America
+2372,2630,Drama,North America
+2373,2631,Comedy,North America
+2374,2632,Drama,North America
+2375,2633,Horror,North America
+2376,2634,Horror,North America
+2377,2635,Horror,Europe
+2378,2636,Horror,Europe|North America
+2379,2637,Horror,North America
+2380,2638,Horror,Europe
+2381,2639,Drama,North America
+2382,2640,Action,North America
+2383,2641,Action,North America
+2384,2642,Action,North America
+2385,2643,Action,North America
+2386,2644,Horror,North America
+2387,2646,Horror,North America
+2388,2647,Horror,North America
+2389,2648,Horror,North America
+2390,2649,Horror,North America
+2391,2650,Horror,North America
+2392,2651,Horror,North America
+2393,2652,Horror,North America
+2394,2653,Horror,North America
+2395,2654,Horror,Europe
+2396,2655,Horror,North America
+2397,2656,Horror,Europe|North America
+2398,2657,Comedy,Europe
+2399,2658,Sci-Fi,North America
+2400,2659,Comedy,North America
+2401,2660,Sci-Fi,North America
+2402,2661,Sci-Fi,Europe|North America
+2403,2662,Action,North America
+2404,2663,Sci-Fi,North America
+2405,2664,Horror,North America
+2406,2665,Sci-Fi,North America
+2407,2666,Sci-Fi,North America
+2408,2667,Sci-Fi,North America
+2409,2668,Horror,North America
+2410,2669,War,North America
+2411,2670,War,Asia|North America
+2412,2671,Comedy,North America
+2413,2672,Drama,North America
+2414,2673,Drama,North America
+2415,2674,Drama,Europe|North America
+2416,2675,Comedy,North America
+2417,2676,Drama,Europe
+2418,2677,Documentary,North America
+2419,2678,Drama,Europe
+2420,2681,Comedy,North America
+2421,2682,Drama,North America
+2422,2683,Comedy,North America
+2423,2685,Comedy,North America
+2424,2686,Drama,Europe
+2425,2687,Animation,North America
+2426,2688,Drama,North America
+2427,2689,Documentary,Europe|North America
+2428,2690,Comedy,North America
+2429,2691,Drama,North America
+2430,2692,Action,North America
+2431,2693,Documentary,North America
+2432,2694,Comedy,Europe
+2433,2695,Drama,North America
+2434,2696,Comedy,North America
+2435,2697,Comedy,North America
+2436,2699,Action,North America
+2437,2700,Animation,North America
+2438,2701,Action,Europe|North America
+2439,2702,Drama,Europe|North America
+2440,2704,Drama,North America
+2441,2705,Drama,North America|Oceania
+2442,2706,Comedy,North America
+2443,2707,Thriller,North America
+2444,2708,Romance,North America
+2445,2709,Children's,Europe|North America
+2446,2710,Horror,Europe|North America
+2447,2711,Drama,North America
+2448,2712,Drama,Europe
+2449,2713,Horror,Europe|North America
+2450,2714,Drama,Europe
+2451,2715,Comedy,North America
+2452,2716,Comedy,North America
+2453,2717,Comedy,North America
+2454,2718,Comedy,North America|Oceania
+2455,2719,Horror,Europe|North America
+2456,2720,Action,North America
+2457,2721,Romance,North America
+2458,2722,Action,Europe
+2459,2723,Action,Europe|North America
+2460,2724,Comedy,Europe|North America
+2461,2725,Drama,North America
+2462,2726,Crime,Europe|Oceania
+2463,2727,Film-Noir,North America
+2464,2728,Drama,North America
+2465,2729,Drama,North America
+2466,2730,Drama,North America
+2467,2731,Drama,North America
+2468,2732,Drama,North America
+2469,2733,Adventure,North America
+2470,2734,Drama,North America
+2471,2735,Action,North America
+2472,2736,Comedy,Europe
+2473,2737,Action,North America
+2474,2738,Comedy,North America
+2475,2739,Drama,North America
+2476,2740,Horror,North America
+2477,2741,Action,North America
+2478,2742,Comedy,North America
+2479,2743,Drama,North America
+2480,2744,Drama,North America
+2481,2745,Drama,North America
+2482,2746,Comedy,Asia|North America
+2483,2747,Comedy,Asia|North America
+2484,2748,Action,North America
+2485,2749,Drama,Asia|North America
+2486,2750,Comedy,North America
+2487,2751,Comedy,North America
+2488,2752,Comedy,Europe|North America
+2489,2754,Horror,North America
+2490,2755,Drama,North America
+2491,2756,Action,Europe|North America
+2492,2757,Drama,North America
+2493,2758,Drama,North America
+2494,2759,Comedy,North America
+2495,2760,Drama,Oceania
+2496,2761,Animation,North America
+2497,2762,Thriller,North America
+2498,2763,Action,North America
+2499,2764,Crime,North America
+2500,2765,Comedy,North America
+2501,2766,Comedy,Asia
+2502,2767,Comedy,North America
+2503,2768,Comedy,Europe|North America
+2504,2769,Crime,Europe
+2505,2770,Comedy,Europe
+2506,2771,Drama,North America
+2507,2772,Comedy,Europe
+2508,2773,Drama,North America
+2509,2774,Comedy,North America
+2510,2775,Drama,Asia|North America
+2511,2776,Documentary,North America
+2512,2777,Drama,North America
+2513,2778,Thriller,North America
+2514,2779,Comedy,North America
+2515,2780,Comedy,North America
+2516,2781,Horror,Europe|North America
+2517,2782,Horror,Asia|Europe
+2518,2783,Horror,North America
+2519,2784,Horror,Europe
+2520,2785,Horror,Europe
+2521,2786,Comedy,North America
+2522,2787,Horror,North America
+2523,2788,Comedy,North America
+2524,2789,Horror,North America
+2525,2790,Horror,North America
+2526,2791,Comedy,Europe|North America
+2527,2792,Comedy,North America
+2528,2793,Comedy,North America
+2529,2794,Comedy,Europe|North America
+2530,2795,Comedy,North America
+2531,2796,Comedy,North America
+2532,2797,Comedy,Europe
+2533,2798,Comedy,Europe
+2534,2799,Comedy,North America
+2535,2800,Animation,North America
+2536,2801,Drama,North America
+2537,2802,Action,North America
+2538,2803,Thriller,Europe
+2539,2804,Comedy,North America
+2540,2805,Comedy,North America
+2541,2806,Comedy,Europe
+2542,2807,Action,North America
+2543,2808,Action,North America
+2544,2809,Comedy,Europe|North America
+2545,2810,Animation,North America
+2546,2811,Comedy,Europe|North America
+2547,2812,Action,North America
+2548,2813,Documentary,Europe
+2549,2814,Horror,North America
+2550,2815,Action,North America
+2551,2816,Action,North America
+2552,2817,Action,North America
+2553,2818,Action,Europe
+2554,2819,Thriller,North America
+2555,2820,Drama,North America
+2556,2821,Adventure,North America
+2557,2822,Adventure,North America
+2558,2823,Action,North America
+2559,2824,Documentary,North America
+2560,2825,Drama,North America
+2561,2826,Action,North America
+2562,2827,Sci-Fi,North America
+2563,2828,Children's,North America
+2564,2829,Comedy,Europe|North America
+2565,2830,Drama,North America
+2566,2831,Drama,Europe
+2567,2833,Romance,North America
+2568,2834,Comedy,North America
+2569,2835,Action,Europe|North America
+2570,2836,Comedy,Europe|North America
+2571,2837,Comedy,North America
+2572,2839,Drama,North America
+2573,2840,Thriller,Asia|North America
+2574,2841,Thriller,Europe
+2575,2842,Crime,Europe|North America
+2576,2843,Comedy,North America
+2577,2844,Drama,North America
+2578,2845,Drama,North America
+2579,2846,Children's,North America
+2580,2847,Drama,North America
+2581,2848,Drama,Europe|North America
+2582,2849,Comedy,North America
+2583,2850,Drama,Europe
+2584,2852,Drama,North America
+2585,2853,Horror,Asia
+2586,2854,Horror,North America
+2587,2855,Horror,North America
+2588,2856,Thriller,North America
+2589,2857,Animation,Europe|North America
+2590,2858,Comedy,Europe
+2591,2859,Documentary,Europe|North America
+2592,2860,Comedy,North America
+2593,2861,Comedy,North America
+2594,2862,Drama,North America
+2595,2863,Comedy,North America
+2596,2864,Comedy,North America
+2597,2865,Comedy,North America
+2598,2866,Drama,North America
+2599,2867,Comedy,Europe
+2600,2868,Horror,North America
+2601,2869,Drama,North America
+2602,2870,Comedy,North America
+2603,2871,Adventure,Europe|North America
+2604,2872,Action,North America
+2605,2873,Drama,North America
+2606,2874,Comedy,North America
+2607,2875,Drama,North America
+2608,2876,Animation,Europe|North America
+2609,2877,Drama,North America
+2610,2878,Horror,North America
+2611,2879,Action,North America
+2612,2880,Action,North America
+2613,2881,Action,North America
+2614,2882,Drama,Europe|North America
+2615,2883,Comedy,North America
+2616,2884,Comedy,North America
+2617,2885,Drama,North America
+2618,2886,Children's,North America|South America
+2619,2887,Drama,North America
+2620,2888,Comedy,Europe
+2621,2889,Comedy,Europe
+2622,2890,Drama,Europe
+2623,2891,Comedy,North America
+2624,2892,Action,North America
+2625,2893,Action,North America
+2626,2894,Drama,North America
+2627,2895,Adventure,North America
+2628,2896,Western,North America
+2629,2897,Comedy,North America
+2630,2898,Horror,Africa|Europe|North America
+2631,2899,Adventure,North America
+2632,2900,Horror,North America
+2633,2901,Horror,Europe|North America
+2634,2902,Horror,Europe
+2635,2903,Horror,North America
+2636,2904,Drama,North America
+2637,2905,Action,North America
+2638,2906,Drama,Europe
+2639,2907,Comedy,North America
+2640,2908,Drama,North America
+2641,2909,Documentary,North America
+2642,2911,Drama,North America
+2643,2912,Action,Europe
+2644,2913,Comedy,North America
+2645,2914,Comedy,North America
+2646,2915,Comedy,North America
+2647,2916,Action,North America
+2648,2917,Crime,North America
+2649,2918,Comedy,North America
+2650,2919,Drama,North America
+2651,2920,Drama,Europe|North America
+2652,2921,Western,North America
+2653,2922,Western,North America
+2654,2923,Comedy,North America
+2655,2924,Action,North America
+2656,2925,Drama,North America
+2657,2926,Comedy,North America
+2658,2927,Drama,North America
+2659,2928,Drama,North America
+2660,2929,Drama,North America
+2661,2930,Documentary,North America
+2662,2931,Drama,North America
+2663,2932,Drama,North America
+2664,2933,Drama,North America
+2665,2934,Musical,North America
+2666,2935,Comedy,Europe
+2667,2936,Comedy,North America
+2668,2937,Comedy,North America
+2669,2938,Drama,North America
+2670,2939,Drama,North America
+2671,2940,Film-Noir,North America
+2672,2941,Musical,North America
+2673,2942,Drama,North America
+2674,2943,Drama,North America
+2675,2944,Action,North America
+2676,2945,Mystery,Europe
+2677,2946,Comedy,North America
+2678,2947,Action,Europe|North America
+2679,2948,Action,Asia|North America
+2680,2949,Action,North America
+2681,2950,Adventure,Europe
+2682,2951,Action,North America
+2683,2952,Crime,North America
+2684,2953,Children's,North America
+2685,2955,Drama,Europe
+2686,2956,Action,North America
+2687,2959,Drama,North America
+2688,2960,Drama,Europe
+2689,2961,Comedy,North America
+2690,2962,Comedy,Europe
+2691,2963,Crime,Europe
+2692,2964,Drama,Europe
+2693,2965,Action,Europe
+2694,2966,Drama,Europe
+2695,2967,Drama,North America
+2696,2968,Adventure,Europe
+2697,2969,Drama,North America
+2698,2970,Adventure,North America
+2699,2971,Musical,North America
+2700,2972,Drama,North America
+2701,2973,Comedy,Europe
+2702,2974,Horror,Europe|North America
+2703,2975,Drama,Africa|Europe|North America
+2704,2976,Drama,Europe
+2705,2977,Comedy,North America
+2706,2978,Comedy,Europe
+2707,2979,Drama,Europe
+2708,2981,Documentary,Europe
+2709,2982,Horror,North America
+2710,2983,Thriller,Europe
+2711,2984,Documentary,Europe
+2712,2985,Action,North America
+2713,2986,Action,Europe
+2714,2987,Adventure,Europe
+2715,2988,Drama,Europe
+2716,2989,Action,North America
+2717,2990,Action,North America
+2718,2991,Action,North America
+2719,2992,Horror,North America
+2720,2993,Action,North America
+2721,2994,Drama,North America
+2722,2995,Horror,North America
+2723,2996,Drama,North America
+2724,2997,Comedy,North America
+2725,2998,Romance,Europe
+2726,3000,Action,North America
+2727,3001,Drama,North America
+2728,3002,Documentary,North America
+2729,3003,Comedy,North America
+2730,3004,Comedy,North America
+2731,3005,Thriller,North America
+2732,3006,Drama,North America
+2733,3007,Documentary,North America
+2734,3008,Thriller,North America
+2735,3010,Drama,North America
+2736,3011,Drama,North America
+2737,3012,Comedy,North America
+2738,3013,Comedy,North America
+2739,3014,Comedy,North America
+2740,3015,Thriller,Europe
+2741,3016,Horror,North America
+2742,3017,Horror,North America
+2743,3018,Horror,North America
+2744,3019,Crime,North America
+2745,3020,Action,North America
+2746,3021,Horror,Europe
+2747,3022,Comedy,North America
+2748,3024,Horror,North America
+2749,3025,Western,North America
+2750,3026,Horror,North America
+2751,3028,Comedy,North America
+2752,3029,Action,North America
+2753,3030,Comedy,North America
+2754,3031,Comedy,North America
+2755,3032,Sci-Fi,North America
+2756,3033,Comedy,North America
+2757,3034,Animation,North America
+2758,3035,Comedy,North America
+2759,3036,Adventure,North America
+2760,3037,Comedy,North America
+2761,3038,Drama,North America
+2762,3039,Comedy,North America
+2763,3040,Comedy,North America
+2764,3041,Comedy,Oceania
+2765,3042,Comedy,Oceania
+2766,3043,Comedy,Oceania
+2767,3044,Mystery,North America
+2768,3045,Comedy,Europe|North America
+2769,3046,Comedy,North America
+2770,3047,Drama,North America
+2771,3048,Comedy,North America
+2772,3049,Comedy,North America
+2773,3050,Drama,North America
+2774,3051,Drama,Africa|Europe|North America
+2775,3052,Comedy,North America
+2776,3053,Drama,North America
+2777,3054,Animation,North America
+2778,3055,Thriller,North America
+2779,3056,Thriller,Asia|North America
+2780,3057,Comedy,North America
+2781,3058,Horror,North America
+2782,3060,Comedy,Europe|North America
+2783,3061,Comedy,North America
+2784,3062,Action,Europe|North America
+2785,3063,Thriller,North America
+2786,3064,Thriller,Europe|North America
+2787,3065,Drama,Europe|North America
+2788,3066,War,North America
+2789,3067,Comedy,North America
+2790,3068,Drama,North America
+2791,3069,Drama,North America
+2792,3070,Adventure,North America
+2793,3071,Drama,North America
+2794,3072,Comedy,North America
+2795,3073,Drama,North America
+2796,3074,Western,North America
+2797,3075,Thriller,North America
+2798,3076,Comedy,North America
+2799,3077,Documentary,North America
+2800,3078,Drama,Europe|North America
+2801,3079,Drama,North America
+2802,3081,Horror,North America
+2803,3082,Action,North America
+2804,3083,Comedy,North America
+2805,3084,Documentary,North America
+2806,3085,Horror,North America
+2807,3086,Comedy,North America
+2808,3087,Comedy,Europe
+2809,3088,Comedy,North America
+2810,3089,Drama,Europe|North America
+2811,3090,Drama,North America
+2812,3091,Drama,Europe
+2813,3092,Drama,North America
+2814,3093,Drama,Europe
+2815,3094,Drama,Europe
+2816,3095,Drama,North America
+2817,3096,Comedy,Europe|North America
+2818,3097,Comedy,North America
+2819,3098,Drama,Europe|North America
+2820,3099,Comedy,Asia|Europe|North America
+2821,3100,Drama,North America
+2822,3101,Thriller,Europe|North America
+2823,3102,Thriller,Europe
+2824,3103,Drama,Europe|North America
+2825,3104,Action,North America
+2826,3105,Drama,North America
+2827,3106,Drama,North America
+2828,3107,Action,North America
+2829,3108,Comedy,North America
+2830,3109,Drama,North America
+2831,3110,Drama,North America
+2832,3111,Drama,North America
+2833,3112,Drama,North America
+2834,3113,Action,North America
+2835,3114,Animation,North America
+2836,3115,Drama,North America
+2837,3116,Drama,North America
+2838,3117,Drama,North America
+2839,3118,Drama,Europe|North America
+2840,3119,Horror,Europe
+2841,3120,Comedy,North America
+2842,3121,Film-Noir,North America
+2843,3122,Drama,North America
+2844,3123,Comedy,North America
+2845,3124,Comedy,Europe
+2846,3125,Drama,North America
+2847,3126,Drama,North America
+2848,3127,Drama,North America
+2849,3128,Drama,North America
+2850,3129,Comedy,North America
+2851,3130,Comedy,North America
+2852,3131,Comedy,Europe
+2853,3132,Comedy,North America
+2854,3133,Comedy,North America
+2855,3134,Drama,North America
+2856,3135,Drama,Asia
+2857,3136,Documentary,Europe|North America
+2858,3137,Action,North America
+2859,3138,Drama,Asia|North America
+2860,3139,Action,North America
+2861,3140,Comedy,North America
+2862,3141,Drama,North America
+2863,3142,Documentary,North America
+2864,3143,Drama,North America
+2865,3144,Comedy,North America
+2866,3145,Drama,Europe
+2867,3146,Comedy,North America
+2868,3147,Drama,North America
+2869,3148,Drama,Asia
+2870,3149,Mystery,North America
+2871,3150,Drama,North America
+2872,3151,Crime,Europe
+2873,3152,Drama,North America
+2874,3153,Action,North America
+2875,3154,Drama,North America
+2876,3155,Drama,North America
+2877,3156,Comedy,North America
+2878,3157,Children's,North America
+2879,3158,Drama,Europe|North America
+2880,3159,Animation,Europe
+2881,3160,Drama,North America
+2882,3161,Drama,North America
+2883,3162,Comedy,North America
+2884,3163,Drama,Oceania
+2885,3164,Drama,North America
+2886,3165,Action,North America
+2887,3166,Adventure,North America
+2888,3167,Drama,South America
+2889,3168,Adventure,Europe
+2890,3169,Drama,North America
+2891,3171,Drama,Asia
+2892,3172,Adventure,North America
+2893,3173,Drama,Europe|North America
+2894,3174,Comedy,North America
+2895,3175,Adventure,Europe
+2896,3176,Drama,Europe
+2897,3177,Comedy,North America
+2898,3178,Drama,North America
+2899,3179,Drama,Europe|North America
+2900,3180,Comedy,North America
+2901,3181,Drama,North America
+2902,3182,Documentary,North America
+2903,3183,Drama,North America|Oceania
+2904,3185,Drama,Europe
+2905,3186,Drama,North America
+2906,3187,Drama,North America
+2907,3188,Documentary,North America
+2908,3189,Comedy,North America
+2909,3190,Adventure,North America
+2910,3192,Drama,North America
+2911,3194,Drama,North America
+2912,3196,Drama,North America
+2913,3197,Action,North America
+2914,3198,Drama,North America
+2915,3199,Comedy,North America
+2916,3200,Comedy,North America
+2917,3201,Drama,Europe
+2918,3202,Drama,North America
+2919,3203,Thriller,North America
+2920,3204,Thriller,North America
+2921,3205,Horror,North America
+2922,3206,Romance,Europe
+2923,3207,Adventure,North America
+2924,3208,Action,North America
+2925,3209,Drama,North America
+2926,3210,Comedy,North America
+2927,3211,Drama,Europe
+2928,3212,Drama,Europe
+2929,3213,Animation,Europe|North America
+2930,3214,Drama,Europe|North America
+2931,3215,Drama,Europe|North America
+2932,3216,Horror,North America
+2933,3217,Drama,Europe|North America
+2934,3218,Drama,North America
+2935,3219,Thriller,Europe|North America
+2936,3220,Drama,Europe|North America
+2937,3221,Drama,Asia
+2938,3222,Drama,North America
+2939,3223,Drama,North America
+2940,3224,Drama,North America
+2941,3225,Comedy,North America
+2942,3228,Comedy,North America
+2943,3230,Thriller,North America
+2944,3232,Comedy,North America
+2945,3233,Comedy,Europe|North America
+2946,3235,Comedy,North America
+2947,3236,Western,Europe
+2948,3237,Documentary,Europe|North America
+2949,3238,Thriller,North America
+2950,3239,Comedy,Europe|North America
+2951,3240,Comedy,Europe
+2952,3241,Comedy,North America
+2953,3242,Comedy,North America
+2954,3243,Comedy,North America
+2955,3244,Comedy,North America
+2956,3245,Drama,North America
+2957,3246,Drama,North America
+2958,3247,Comedy,North America
+2959,3248,Comedy,North America
+2960,3249,Thriller,North America
+2961,3250,Drama,North America
+2962,3251,Drama,North America
+2963,3252,Drama,Europe|North America
+2964,3253,Comedy,Europe
+2965,3254,Comedy,North America
+2966,3255,Comedy,North America
+2967,3256,Action,Europe
+2968,3257,Action,Europe|North America
+2969,3258,Comedy,Europe|North America
+2970,3259,Drama,North America
+2971,3260,Drama,North America
+2972,3261,Comedy,North America
+2973,3262,Drama,North America
+2974,3263,Comedy,Europe|North America
+2975,3264,Comedy,North America
+2976,3265,Action,North America
+2977,3266,Action,North America
+2978,3267,Action,North America
+2979,3268,Action,Europe
+2980,3269,Adventure,North America
+2981,3270,Drama,North America
+2982,3271,Drama,North America
+2983,3272,Crime,Europe|North America
+2984,3273,Horror,North America
+2985,3274,Action,North America
+2986,3275,Action,North America
+2987,3276,Comedy,Asia|Europe|North America|South America
+2988,3277,Drama,North America
+2989,3281,Documentary,North America
+2990,3282,Comedy,North America
+2991,3283,Action,North America
+2992,3284,Comedy,North America
+2993,3285,Adventure,Europe
+2994,3286,Comedy,Europe
+2995,3287,Animation,North America
+2996,3288,Drama,Europe
+2997,3289,Drama,Europe
+2998,3290,Comedy,North America
+2999,3292,Film-Noir,North America
+3000,3293,Drama,North America
+3001,3294,Horror,Europe|North America
+3002,3295,Drama,North America
+3003,3296,Drama,North America
+3004,3297,Documentary,North America
+3005,3298,Drama,North America
+3006,3299,Comedy,Asia|North America
+3007,3300,Action,North America
+3008,3301,Comedy,North America
+3009,3302,Comedy,North America
+3010,3303,Documentary,North America
+3011,3304,Crime,North America
+3012,3305,Film-Noir,North America
+3013,3306,Comedy,North America
+3014,3307,Comedy,North America
+3015,3308,Comedy,North America
+3016,3309,Comedy,North America
+3017,3310,Action,North America
+3018,3311,Western,North America
+3019,3312,Drama,North America
+3020,3313,Comedy,North America
+3021,3314,Action,North America|Oceania
+3022,3316,Action,North America
+3023,3317,Comedy,Europe
+3024,3318,Thriller,North America
+3025,3319,Drama,North America
+3026,3320,Comedy,Europe|North America
+3027,3322,Comedy,Europe|North America
+3028,3323,Comedy,North America
+3029,3324,Comedy,North America
+3030,3325,Comedy,North America
+3031,3326,Comedy,North America
+3032,3327,Documentary,Africa|North America
+3033,3328,Crime,North America
+3034,3329,Drama,North America
+3035,3330,Drama,North America
+3036,3331,Drama,Europe|North America
+3037,3333,Drama,North America
+3038,3334,Crime,North America
+3039,3335,Crime,North America
+3040,3337,Comedy,Europe|North America
+3041,3338,Documentary,North America
+3042,3339,War,North America
+3043,3340,Horror,North America
+3044,3341,Comedy,North America
+3045,3342,Drama,North America
+3046,3343,Comedy,North America
+3047,3344,Horror,North America
+3048,3345,Adventure,North America
+3049,3346,Horror,Asia|Europe
+3050,3347,Drama,North America
+3051,3349,Comedy,North America
+3052,3350,Drama,North America
+3053,3351,Horror,Europe|North America
+3054,3352,Drama,North America
+3055,3353,Comedy,North America
+3056,3354,Sci-Fi,North America
+3057,3355,Thriller,North America
+3058,3357,Drama,North America
+3059,3358,Comedy,North America
+3060,3359,Drama,North America
+3061,3360,Drama,North America
+3062,3361,Comedy,Europe|North America
+3063,3362,Comedy,North America
+3064,3363,Comedy,North America
+3065,3364,Crime,North America
+3066,3365,Western,North America
+3067,3367,War,Europe|North America
+3068,3368,Romance,North America
+3069,3370,Drama,North America
+3070,3371,Drama,North America
+3071,3372,Action,North America
+3072,3373,Western,Europe|North America
+3073,3374,Drama,North America
+3074,3375,Sci-Fi,North America
+3075,3376,Romance,North America
+3076,3377,Drama,North America
+3077,3378,Drama,North America
+3078,3379,Drama,North America
+3079,3380,Film-Noir,North America
+3080,3381,Comedy,Asia
+3081,3382,Drama,North America
+3082,3384,Action,North America
+3083,3385,Comedy,Europe|North America
+3084,3386,Drama,Europe|North America
+3085,3387,Comedy,North America
+3086,3388,Comedy,North America
+3087,3389,Action,Europe
+3088,3390,Adventure,North America
+3089,3391,Comedy,North America
+3090,3392,Comedy,Europe|North America
+3091,3393,Comedy,Europe|North America
+3092,3394,Comedy,North America
+3093,3395,Comedy,North America
+3094,3396,Children's,Asia|North America
+3095,3397,Children's,North America
+3096,3398,Children's,North America
+3097,3399,Children's,North America
+3098,3400,Animation,Africa|North America
+3099,3401,Adventure,North America
+3100,3402,Drama,North America
+3101,3403,Drama,Europe|North America
+3102,3404,Action,North America
+3103,3405,Action,North America
+3104,3406,Action,Europe
+3105,3407,Comedy,Europe|North America
+3106,3408,Drama,North America
+3107,3409,Drama,North America
+3108,3410,Comedy,Europe|North America
+3109,3412,Adventure,North America
+3110,3413,Crime,North America
+3111,3414,Romance,North America
+3112,3415,Drama,Europe
+3113,3417,Adventure,North America
+3114,3418,Action,North America
+3115,3419,Comedy,North America
+3116,3420,Drama,Asia|North America
+3117,3421,Comedy,North America
+3118,3422,Comedy,North America
+3119,3423,Drama,North America
+3120,3424,Comedy,Europe|North America
+3121,3425,Drama,North America
+3122,3426,Drama,North America
+3123,3427,Crime,North America
+3124,3428,Drama,North America
+3125,3429,Animation,North America|Oceania
+3126,3430,Action,North America
+3127,3431,Action,Europe|North America
+3128,3432,Action,North America
+3129,3433,Action,North America
+3130,3434,Action,North America
+3131,3435,Crime,North America
+3132,3436,Drama,North America
+3133,3437,Drama,North America
+3134,3438,Action,Asia|Europe
+3135,3439,Action,North America
+3136,3440,Action,Europe|North America
+3137,3441,Action,North America
+3138,3442,Action,North America
+3139,3443,Action,North America
+3140,3444,Action,Europe|North America
+3141,3445,Mystery,North America
+3142,3446,Comedy,Europe
+3143,3447,Drama,North America
+3144,3448,Comedy,North America
+3145,3449,Drama,North America
+3146,3450,Comedy,North America
+3147,3451,Comedy,Europe
+3148,3452,Action,North America
+3149,3453,Drama,North America
+3150,3454,Comedy,Europe|Oceania
+3151,3456,Drama,North America
+3152,3457,Drama,North America
+3153,3458,Drama,North America
+3154,3459,Drama,North America
+3155,3460,Comedy,North America
+3156,3461,Adventure,Europe|North America
+3157,3462,Comedy,North America
+3158,3463,Comedy,North America
+3159,3464,Sci-Fi,North America
+3160,3465,Drama,North America
+3161,3466,Comedy,North America
+3162,3467,Drama,Europe|North America
+3163,3468,Drama,Europe|North America
+3164,3469,Drama,Oceania
+3165,3470,Adventure,North America
+3166,3471,Drama,North America
+3167,3472,Horror,North America
+3168,3473,Comedy,Europe
+3169,3474,Sci-Fi,North America
+3170,3475,Drama,North America
+3171,3476,Horror,North America
+3172,3477,Comedy,Europe
+3173,3478,Drama,Europe|North America
+3174,3479,Adventure,Europe|North America
+3175,3480,Drama,North America
+3176,3481,Comedy,North America
+3177,3483,Animation,Europe
+3178,3484,Thriller,North America
+3179,3485,Horror,North America
+3180,3486,Sci-Fi,Europe|Oceania
+3181,3487,Western,North America
+3182,3488,Horror,North America
+3183,3489,Adventure,North America
+3184,3490,Horror,North America
+3185,3491,Comedy,North America
+3186,3492,Adventure,North America
+3187,3493,Horror,North America
+3188,3494,Adventure,North America
+3189,3495,Comedy,Europe
+3190,3496,Drama,Asia|Europe|North America
+3191,3497,Comedy,North America
+3192,3498,Drama,North America
+3193,3499,Horror,Europe|North America
+3194,3500,Comedy,Europe|North America
+3195,3501,Comedy,North America
+3196,3502,Drama,North America
+3197,3503,Drama,Europe|North America
+3198,3504,Comedy,North America
+3199,3505,Thriller,North America
+3200,3506,Comedy,Europe|North America
+3201,3507,Comedy,North America
+3202,3508,Western,North America
+3203,3509,Drama,North America
+3204,3510,Drama,North America
+3205,3511,Comedy,North America
+3206,3512,Drama,Europe|North America
+3207,3513,Drama,North America
+3208,3514,Drama,Europe
+3209,3515,Comedy,North America
+3210,3516,Comedy,North America
+3211,3517,Crime,North America
+3212,3518,Drama,Europe
+3213,3519,Action,Europe
+3214,3520,Comedy,North America
+3215,3521,Comedy,North America
+3216,3522,Drama,Europe
+3217,3523,Action,Europe|North America
+3218,3524,Comedy,Europe|North America
+3219,3525,Comedy,Europe
+3220,3526,Comedy,North America
+3221,3527,Action,North America
+3222,3528,Drama,Europe
+3223,3529,Crime,North America
+3224,3530,Comedy,Europe
+3225,3531,Comedy,Europe
+3226,3533,Drama,Europe|North America
+3227,3534,Comedy,Europe|North America
+3228,3535,Comedy,Europe
+3229,3536,Comedy,Europe
+3230,3537,Comedy,Europe|South America
+3231,3538,Comedy,North America
+3232,3539,Documentary,North America
+3233,3540,Romance,North America
+3234,3542,Drama,North America
+3235,3543,Comedy,North America
+3236,3544,Comedy,Europe|North America
+3237,3545,Musical,Europe|North America
+3238,3546,Drama,North America
+3239,3547,Drama,Europe|North America
+3240,3548,Comedy,North America
+3241,3549,Musical,North America
+3242,3550,Horror,North America
+3243,3551,Thriller,North America
+3244,3552,Comedy,North America
+3245,3553,Drama,Europe
+3246,3554,Drama,North America
+3247,3555,Action,North America
+3248,3556,Comedy,North America
+3249,3557,Thriller,North America
+3250,3559,Drama,Asia
+3251,3562,Comedy,North America
+3252,3563,Action,North America
+3253,3564,Children's,North America
+3254,3565,Comedy,Europe|North America
+3255,3566,Comedy,Europe
+3256,3567,Comedy,Europe|North America
+3257,3568,Drama,North America
+3258,3569,Comedy,North America
+3259,3570,Drama,North America
+3260,3571,Drama,North America
+3261,3572,Horror,North America
+3262,3573,Horror,Europe|North America
+3263,3574,Horror,Europe|Oceania
+3264,3575,Drama,Europe
+3265,3576,Action,North America
+3266,3577,Drama,Europe
+3267,3578,Action,Europe|North America
+3268,3579,Drama,North America
+3269,3580,Drama,North America
+3270,3581,Drama,Europe
+3271,3584,Action,North America
+3272,3585,Adventure,Europe|North America
+3273,3586,Drama,North America
+3274,3587,Horror,North America
+3275,3588,Crime,North America
+3276,3590,Comedy,North America
+3277,3591,Comedy,North America
+3278,3592,Animation,North America
+3279,3593,Action,Europe
+3280,3594,Drama,North America
+3281,3595,Comedy,North America
+3282,3596,Comedy,North America
+3283,3597,Comedy,North America
+3284,3598,Drama,Europe
+3285,3599,Comedy,North America
+3286,3600,Comedy,North America
+3287,3601,Comedy,North America
+3288,3602,Musical,Europe
+3289,3603,Comedy,Europe
+3290,3604,Musical,Europe
+3291,3605,Drama,Europe
+3292,3606,Musical,Europe
+3293,3607,Comedy,North America
+3294,3608,Comedy,North America
+3295,3609,Documentary,Asia|Europe|North America
+3296,3610,Musical,North America
+3297,3611,Animation,North America
+3298,3612,Adventure,Europe
+3299,3613,Comedy,Asia
+3300,3614,Comedy,North America
+3301,3615,Animation,Europe
+3302,3616,Comedy,North America
+3303,3617,Comedy,Africa
+3304,3618,Comedy,Oceania
+3305,3619,Comedy,Europe
+3306,3620,Comedy,North America
+3307,3621,Drama,Europe|North America
+3308,3622,Comedy,Europe|North America
+3309,3623,Action,North America
+3310,3624,Action,North America
+3311,3625,Documentary,North America
+3312,3626,Comedy,Europe|North America
+3313,3627,Horror,Europe
+3314,3628,Action,North America
+3315,3629,Comedy,Asia
+3316,3632,Comedy,Asia
+3317,3633,Action,North America
+3318,3634,Thriller,North America
+3319,3635,Action,North America
+3320,3636,Drama,Europe
+3321,3637,Drama,North America
+3322,3638,Action,Europe|North America
+3323,3639,Action,Europe
+3324,3640,Comedy,Europe
+3325,3641,Drama,Europe
+3326,3642,Western,Europe|South America
+3327,3643,Action,North America
+3328,3644,Western,North America
+3329,3645,Drama,Oceania
+3330,3646,Comedy,North America
+3331,3647,Drama,North America
+3332,3648,Horror,Europe
+3333,3649,Drama,North America
+3334,3651,Horror,North America
+3335,3652,Horror,North America
+3336,3653,Documentary,North America
+3337,3654,Action,Europe
+3338,3655,Drama,North America
+3339,3657,Drama,Europe|North America
+3340,3658,Sci-Fi,North America
+3341,3659,Sci-Fi,Europe|North America
+3342,3660,Horror,Europe
+3343,3661,Horror,North America
+3344,3662,Horror,North America
+3345,3663,Horror,North America
+3346,3664,Horror,Oceania
+3347,3665,Horror,North America
+3348,3666,Horror,North America
+3349,3667,Action,North America
+3350,3668,Drama,North America
+3351,3669,Comedy,North America
+3352,3670,War,North America
+3353,3671,Comedy,North America
+3354,3672,Adventure,Europe
+3355,3673,Adventure,Asia|Europe|North America
+3356,3674,Adventure,Europe
+3357,3675,Musical,North America
+3358,3676,Drama,Europe
+3359,3677,Documentary,Europe
+3360,3678,Drama,North America
+3361,3679,Documentary,North America
+3362,3680,Documentary,Europe
+3363,3681,Western,North America
+3364,3682,Western,North America
+3365,3683,Drama,North America
+3366,3684,Drama,North America
+3367,3685,Comedy,Europe
+3368,3686,Thriller,Asia|Europe
+3369,3687,Sci-Fi,Europe
+3370,3688,Comedy,Europe|North America
+3371,3689,Comedy,North America
+3372,3690,Comedy,North America
+3373,3691,Comedy,Europe|North America
+3374,3692,Comedy,Europe
+3375,3693,Comedy,North America
+3376,3694,Comedy,North America
+3377,3695,Comedy,North America
+3378,3696,Comedy,Asia|Europe
+3379,3697,Action,North America
+3380,3698,Action,North America
+3381,3699,Adventure,Europe
+3382,3700,Drama,Europe
+3383,3701,Crime,North America
+3384,3702,Action,Europe|North America
+3385,3703,Action,North America
+3386,3704,Action,North America
+3387,3705,Action,North America
+3388,3706,Film-Noir,Europe
+3389,3707,Drama,North America
+3390,3708,Horror,Europe|North America
+3391,3709,Horror,North America
+3392,3710,Action,North America
+3393,3711,Drama,Europe|South America
+3394,3712,Comedy,Asia
+3395,3713,Drama,Asia
+3396,3714,Drama,North America
+3397,3715,Comedy,North America
+3398,3716,Action,Europe
+3399,3717,Action,North America|Oceania
+3400,3718,Documentary,North America
+3401,3719,Comedy,Europe
+3402,3720,Drama,North America
+3403,3721,Comedy,North America
+3404,3722,Comedy,Europe|North America
+3405,3723,Drama,North America
+3406,3724,Drama,Europe|North America
+3407,3725,Animation,Africa|Europe
+3408,3726,Action,Africa
+3409,3727,Comedy,Europe
+3410,3728,Thriller,North America
+3411,3729,Action,Europe
+3412,3730,Drama,North America
+3413,3731,Drama,North America
+3414,3732,Horror,North America
+3415,3733,Drama,Europe
+3416,3734,Drama,North America
+3417,3735,Crime,North America
+3418,3736,Drama,North America
+3419,3737,Drama,North America
+3420,3738,Drama,North America
+3421,3739,Comedy,North America
+3422,3740,Action,North America
+3423,3741,Crime,South America
+3424,3742,Drama,North America
+3425,3743,Comedy,Europe
+3426,3744,Action,North America
+3427,3745,Adventure,Europe
+3428,3746,Drama,Europe
+3429,3747,Drama,North America
+3430,3748,Comedy,North America
+3431,3749,Drama,North America|Oceania
+3432,3751,Animation,North America
+3433,3752,Comedy,Asia
+3434,3753,Action,North America
+3435,3754,Animation,North America
+3436,3755,Action,North America
+3437,3756,Drama,Europe|North America
+3438,3757,Horror,North America
+3439,3758,Drama,North America
+3440,3759,Animation,Europe|North America
+3441,3760,Comedy,Europe
+3442,3761,Crime,North America
+3443,3762,Horror,North America
+3444,3763,Action,North America
+3445,3764,Action,North America
+3446,3765,Drama,North America
+3447,3766,Action,North America
+3448,3767,Action,North America
+3449,3768,Action,North America
+3450,3769,Action,Europe
+3451,3770,Adventure,Europe|North America
+3452,3771,Action,Europe
+3453,3772,Horror,Europe
+3454,3773,Comedy,Europe
+3455,3774,Comedy,Europe
+3456,3775,Animation,Europe|North America
+3457,3776,Animation,North America
+3458,3777,Comedy,North America
+3459,3778,Comedy,North America
+3460,3779,Sci-Fi,Europe|North America
+3461,3780,Sci-Fi,North America
+3462,3781,Action,North America
+3463,3782,Action,North America
+3464,3783,Crime,North America
+3465,3784,Comedy,North America
+3466,3785,Comedy,North America
+3467,3786,Comedy,Europe|North America
+3468,3787,Comedy,North America
+3469,3788,Drama,North America
+3470,3789,Drama,North America
+3471,3790,Drama,Europe
+3472,3791,Drama,North America
+3473,3792,Western,North America
+3474,3793,Action,Asia
+3475,3794,Comedy,Asia|Europe|North America
+3476,3795,Drama,North America
+3477,3796,Romance,North America
+3478,3797,Thriller,North America
+3479,3798,Thriller,Europe|North America
+3480,3799,Animation,Asia|Europe
+3481,3800,Drama,North America
+3482,3801,Drama,North America
+3483,3802,Action,Europe|Oceania
+3484,3803,Drama,Asia
+3485,3804,Comedy,North America
+3486,3805,Action,Europe|North America
+3487,3806,Western,Europe
+3488,3807,Action,Asia
+3489,3808,Drama,North America
+3490,3809,Comedy,Europe
+3491,3810,Drama,North America
+3492,3811,Drama,North America
+3493,3812,Comedy,Oceania
+3494,3813,Drama,Europe|North America
+3495,3814,Comedy,North America
+3496,3816,Drama,North America
+3497,3817,Comedy,Asia
+3498,3818,Comedy,North America
+3499,3819,Comedy,North America
+3500,3820,Children's,Asia
+3501,3821,Comedy,North America
+3502,3822,Drama,Europe
+3503,3823,Drama,Asia|Europe|North America|Oceania
+3504,3824,Drama,North America
+3505,3825,Drama,North America
+3506,3826,Horror,North America
+3507,3827,Action,North America
+3508,3828,Comedy,North America
+3509,3830,Comedy,North America
+3510,3831,Comedy,North America
+3511,3832,Horror,North America
+3512,3833,Horror,North America
+3513,3834,Adventure,Europe
+3514,3835,Thriller,North America
+3515,3836,Action,North America
+3516,3837,Horror,Europe|North America
+3517,3838,Horror,North America
+3518,3839,Horror,Europe
+3519,3840,Horror,North America
+3520,3841,Action,North America
+3521,3843,Horror,North America
+3522,3844,Drama,North America
+3523,3845,Drama,North America
+3524,3846,Comedy,North America
+3525,3847,Horror,North America
+3526,3848,Drama,North America
+3527,3849,Thriller,North America
+3528,3850,Crime,North America
+3529,3851,Comedy,North America
+3530,3852,Comedy,North America
+3531,3853,Drama,North America
+3532,3854,Drama,North America
+3533,3855,Drama,North America
+3534,3857,Thriller,North America
+3535,3858,Comedy,North America
+3536,3859,Documentary,North America
+3537,3860,Crime,North America
+3538,3861,Comedy,North America
+3539,3862,Comedy,North America
+3540,3863,Sci-Fi,North America
+3541,3864,Action,North America
+3542,3865,Comedy,North America
+3543,3866,Comedy,North America
+3544,3867,Drama,Europe|North America
+3545,3868,Comedy,North America
+3546,3869,Comedy,North America
+3547,3870,Drama,North America
+3548,3871,Drama,North America
+3549,3872,Drama,Europe|North America
+3550,3873,Comedy,North America
+3551,3874,Comedy,North America
+3552,3875,Horror,North America
+3553,3876,Drama,North America
+3554,3877,Action,North America
+3555,3878,Sci-Fi,North America
+3556,3879,Action,North America
+3557,3880,Documentary,North America
+3558,3882,Comedy,North America
+3559,3883,Comedy,North America
+3560,3884,Comedy,North America
+3561,3885,Comedy,North America
+3562,3886,Drama,North America
+3563,3887,Drama,North America
+3564,3888,Drama,North America
+3565,3889,Action,North America
+3566,3891,Crime,North America
+3567,3892,Horror,North America
+3568,3893,Comedy,North America
+3569,3894,Drama,North America
+3570,3895,Crime,North America
+3571,3896,Crime,North America
+3572,3897,Comedy,North America
+3573,3898,Action,North America
+3574,3899,Comedy,North America
+3575,3900,Comedy,North America
+3576,3901,Comedy,North America
+3577,3902,Drama,North America
+3578,3903,Drama,North America
+3579,3904,Drama,North America
+3580,3905,Comedy,North America
+3581,3906,Crime,North America
+3582,3908,Horror,North America
+3583,3909,Comedy,North America
+3584,3910,Drama,North America
+3585,3911,Comedy,North America
+3586,3912,Comedy,Europe
+3587,3913,Documentary,North America
+3588,3914,Drama,North America
+3589,3915,Drama,North America
+3590,3916,Drama,North America
+3591,3917,Horror,North America
+3592,3918,Horror,Europe
+3593,3919,Horror,North America
+3594,3920,Drama,North America
+3595,3921,Comedy,North America
+3596,3922,Comedy,Europe|North America
+3597,3923,Horror,Europe
+3598,3924,Comedy,Europe|North America
+3599,3925,Comedy,North America
+3600,3926,Adventure,North America
+3601,3927,Adventure,North America
+3602,3928,Comedy,North America
+3603,3929,Comedy,North America
+3604,3930,Horror,North America
+3605,3931,Horror,North America
+3606,3932,Horror,Asia|Europe
+3607,3933,Horror,Asia
+3608,3934,Sci-Fi,Africa|North America
+3609,3936,Drama,North America
+3610,3937,Sci-Fi,Europe|North America
+3611,3938,Horror,North America
+3612,3939,Horror,North America
+3613,3940,Horror,North America
+3614,3941,Horror,North America
+3615,3942,Horror,Europe
+3616,3943,Comedy,Europe|North America
+3617,3944,Comedy,North America
+3618,3945,Adventure,Europe|North America
+3619,3946,Action,North America
+3620,3947,Thriller,North America
+3621,3948,Comedy,North America
+3622,3949,Drama,North America
+3623,3950,Drama,North America
+3624,3951,Drama,North America
+3625,3952,Drama,North America
