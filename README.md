@@ -27,10 +27,3 @@ This dual focus aligns with the broader MORS literature, which addresses multipl
 To use the algorithm, follow these steps:
 
 
-
-For any questions or support, please open an issue or contact us at [your email].
-```
-
----
-
-Espero que esto sea lo que necesitas. Si tienes alguna otra solicitud o necesitas ajustes, házmelo saber.
