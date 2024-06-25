@@ -22,8 +22,3 @@ This dual focus aligns with the broader MORS literature, which addresses multipl
 - **Generalizable Framework**: Can be adapted to incorporate different sets of global and individual objectives.
 
 
-## Usage
-
-To use the algorithm, follow these steps:
-
-
